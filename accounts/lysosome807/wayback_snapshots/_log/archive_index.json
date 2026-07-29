@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T10:58:36",
+  "last_updated": "2026-07-29T10:59:28",
   "html": {
     "https://web.archive.org/web/20260127181803if_/https://twitter.com/lysosome807/status/2016214132954169630": {
       "status": "done",
@@ -4700,9 +4700,9 @@
       "referenced_by": [
         "20260608215116_twitter_com_lysosome807_status_2064102989460377662.json"
       ],
-      "last_updated": "2026-07-29T09:51:40",
+      "last_updated": "2026-07-29T10:59:28",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260608215116/https://video.twimg.com/tweet_video/HKUqs51bUAAqdSO.mp4",
-      "miss_count": 1
+      "miss_count": 2
     }
   },
   "avatars": {
