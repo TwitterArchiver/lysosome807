@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052794449693155329",
+        "3_2052794449689034752"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "conversation_id": "2052553765438599305",
+    "created_at": "2026-05-08T16:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052794455078613055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/L4eSud5gKj",
+          "end": 30,
+          "expanded_url": "https://x.com/lysosome807/status/2052794455078613055/photo/1",
+          "media_key": "3_2052794449693155329",
+          "start": 7,
+          "url": "https://t.co/L4eSud5gKj"
+        },
+        {
+          "display_url": "pic.x.com/L4eSud5gKj",
+          "end": 30,
+          "expanded_url": "https://x.com/lysosome807/status/2052794455078613055/photo/1",
+          "media_key": "3_2052794449689034752",
+          "start": 7,
+          "url": "https://t.co/L4eSud5gKj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052794455078613055",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052553765438599305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "app生成的 https://t.co/L4eSud5gKj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2052794449693155329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz9rQLaoAEHqcD.jpg",
+        "width": 784
+      },
+      {
+        "height": 1248,
+        "media_key": "3_2052794449689034752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz9rQKbwAAS4w-.jpg",
+        "width": 832
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2052553754218758144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHwiw7qagAAS8QM.jpg",
+        "width": 784
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2052553754214531072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHwiw7paAAACBuU.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052794449693155329",
+            "3_2052794449689034752"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "conversation_id": "2052553765438599305",
+        "created_at": "2026-05-08T16:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052794455078613055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L4eSud5gKj",
+              "end": 30,
+              "expanded_url": "https://x.com/lysosome807/status/2052794455078613055/photo/1",
+              "media_key": "3_2052794449693155329",
+              "start": 7,
+              "url": "https://t.co/L4eSud5gKj"
+            },
+            {
+              "display_url": "pic.x.com/L4eSud5gKj",
+              "end": 30,
+              "expanded_url": "https://x.com/lysosome807/status/2052794455078613055/photo/1",
+              "media_key": "3_2052794449689034752",
+              "start": 7,
+              "url": "https://t.co/L4eSud5gKj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052794455078613055",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052553765438599305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "app生成的 https://t.co/L4eSud5gKj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052553754218758144",
+            "3_2052553754214531072"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          }
+        ],
+        "conversation_id": "2052553765438599305",
+        "created_at": "2026-05-08T00:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T01:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052553765438599305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eCXjzwWHLn",
+              "end": 79,
+              "expanded_url": "https://x.com/lysosome807/status/2052553765438599305/photo/1",
+              "media_key": "3_2052553754218758144",
+              "start": 56,
+              "url": "https://t.co/eCXjzwWHLn"
+            },
+            {
+              "display_url": "pic.x.com/eCXjzwWHLn",
+              "end": 79,
+              "expanded_url": "https://x.com/lysosome807/status/2052553765438599305/photo/1",
+              "media_key": "3_2052553754214531072",
+              "start": 56,
+              "url": "https://t.co/eCXjzwWHLn"
+            },
+            {
+              "display_url": "x.com/pyke2076/statu…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/pyke2076/status/2052379623791702305",
+              "start": 80,
+              "url": "https://t.co/pibHDYEGeW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052553765438599305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052379623791702305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "两种。这完全不一样好吗，，p2好像我中学时的理想人设，说起来p1蓝紫色头发看起来不错，什么时候能有精力染一下呢 https://t.co/eCXjzwWHLn https://t.co/pibHDYEGeW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 734,
+          "like_count": 2859,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 241
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

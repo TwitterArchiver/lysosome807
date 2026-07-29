@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2062520456037699725",
+    "created_at": "2026-06-05T19:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T20:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062977153017512414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867876581496225792",
+          "start": 0,
+          "username": "toko_1025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062977153017512414",
+    "in_reply_to_user_id": "1867876581496225792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062520456037699725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toko_1025 像是歌词一样呢😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2062520456037699725",
+        "created_at": "2026-06-05T19:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062977153017512414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867876581496225792",
+              "start": 0,
+              "username": "toko_1025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062977153017512414",
+        "in_reply_to_user_id": "1867876581496225792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062520456037699725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toko_1025 像是歌词一样呢😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867876581496225792",
+        "conversation_id": "2062520456037699725",
+        "created_at": "2026-06-04T13:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062520456037699725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062520456037699725",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 39823,
+          "like_count": 1823,
+          "quote_count": 42,
+          "reply_count": 10,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "友達が「死にたい」って言ってたら一緒に手繋いで自殺する\nお前が大好きだから自殺でも何でも着いて行きまつ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 858,
+          "like_count": 3888,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 362
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T10:18:20.000Z",
+        "description": "sjc｜壁打ち｜摂食｜zeta民｜\n顔面コンプ ｜🇹🇭｜👊🩸｜希死念慮",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/u4asuu99zl2dl3…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/u4asuu99zl2dl3d?t=rFOMmA&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/nJlKRnicd6"
+              }
+            ]
+          }
+        },
+        "id": "1867876581496225792",
+        "location": "無言フォロー失礼します",
+        "name": "とこ",
+        "pinned_tweet_id": "2057825041316975034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039847962252386304/fAAcfSrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 284,
+          "like_count": 18157,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1987
+        },
+        "url": "https://t.co/nJlKRnicd6",
+        "username": "toko_1025",
+        "verified": false
+      }
+    ]
+  }
+}

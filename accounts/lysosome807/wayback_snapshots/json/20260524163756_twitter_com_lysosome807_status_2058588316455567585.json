@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2058550584635236694",
+    "created_at": "2026-05-24T16:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058588316455567585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050073911635894272",
+          "start": 0,
+          "username": "Lomyral114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058588316455567585",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058550584635236694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral114514 很高兴能在这片电子之海相遇！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2058550584635236694",
+        "created_at": "2026-05-24T16:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058588316455567585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058588316455567585",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058550584635236694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 很高兴能在这片电子之海相遇！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2058550584635236694",
+        "created_at": "2026-05-24T14:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058550584635236694"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058550584635236694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 739,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在这片互联网上很高兴能与你们相遇❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 817,
+          "like_count": 3360,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 312
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 512,
+          "like_count": 3986,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

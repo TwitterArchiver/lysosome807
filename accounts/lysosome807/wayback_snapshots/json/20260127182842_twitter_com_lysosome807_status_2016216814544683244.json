@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2016216198460146056",
+    "created_at": "2026-01-27T18:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T19:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016216814544683244"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016216814544683244",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016216198460146056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回家了也不能overdose了哈哈哈哈，反复给监护人强调要收好我的药他们其实也根本不在乎吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2016216198460146056",
+        "created_at": "2026-01-27T18:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T19:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016216814544683244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016216814544683244",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016216198460146056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回家了也不能overdose了哈哈哈哈，反复给监护人强调要收好我的药他们其实也根本不在乎吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2016216198460146056",
+        "created_at": "2026-01-27T18:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T19:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016216198460146056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016216198460146056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说不想自杀都是假的，说上周想自杀是害怕下个学期也是假的，我是害怕你抛弃我啊，一想到这个我还是想哭，为什么连你也要抛弃我，为什么连最后一个靠医疗系统维持的即使是虚假的一厢情愿的自作多情的关心也要残忍地抽走，像这样没有人在意注定不会被任何理解的阴暗潮湿扭曲的我，有什么存在的必要呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "中文/English⭕️ ，翻訳機を使う",
+        "id": "1707350362787913728",
+        "name": "水月郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013275652317724672/9zqq5IJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 587,
+          "like_count": 2303,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

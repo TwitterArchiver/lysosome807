@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2055293980448067821",
+    "created_at": "2026-05-16T03:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055489412453314762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047499889094123520",
+          "start": 0,
+          "username": "yn_xxxjkjk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055489412453314762",
+    "in_reply_to_user_id": "2047499889094123520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055293980448067821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yn_xxxjkjk 我倒是有，要的话可以私信。但感觉信息有点老（说起来第一次知道pcp还是这个本册子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2055293980448067821",
+        "created_at": "2026-05-16T03:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055489412453314762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047499889094123520",
+              "start": 0,
+              "username": "yn_xxxjkjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055489412453314762",
+        "in_reply_to_user_id": "2047499889094123520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055293980448067821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yn_xxxjkjk 我倒是有，要的话可以私信。但感觉信息有点老（说起来第一次知道pcp还是这个本册子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047499889094123520",
+        "conversation_id": "2055293980448067821",
+        "created_at": "2026-05-15T14:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055293980448067821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055293980448067821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁有完全自杀手册我想看 谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 767,
+          "like_count": 3079,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 288
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T02:16:39.000Z",
+        "description": "@xxx_jjkk 的逃生舱\n都会回fol的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "xxx_jjkk"
+              }
+            ]
+          }
+        },
+        "id": "2047499889094123520",
+        "name": "YN2.0",
+        "pinned_tweet_id": "2054935095430254613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047500366259064833/k5dhVApk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 138,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 35
+        },
+        "username": "yn_xxxjkjk",
+        "verified": false
+      }
+    ]
+  }
+}

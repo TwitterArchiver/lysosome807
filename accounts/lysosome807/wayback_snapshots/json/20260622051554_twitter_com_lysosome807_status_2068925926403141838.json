@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2068719764252541256",
+    "created_at": "2026-06-22T05:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068925926403141838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520325216060121088",
+          "start": 0,
+          "username": "___dracomalfoy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068925926403141838",
+    "in_reply_to_user_id": "1520325216060121088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068719764252541256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@___dracomalfoy_ 因为我的伤口都在手腕上，所以日常戴手表手链发绳什么就挡住了.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2068719764252541256",
+        "created_at": "2026-06-22T05:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068925926403141838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520325216060121088",
+              "start": 0,
+              "username": "___dracomalfoy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068925926403141838",
+        "in_reply_to_user_id": "1520325216060121088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068719764252541256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@___dracomalfoy_ 因为我的伤口都在手腕上，所以日常戴手表手链发绳什么就挡住了.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520325216060121088",
+        "conversation_id": "2068719764252541256",
+        "created_at": "2026-06-21T15:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068719764252541256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068719764252541256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 42382,
+          "like_count": 666,
+          "quote_count": 24,
+          "reply_count": 39,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "リスカとか自傷してる人、してた人に聞きたいんだけど、夏は傷もしくは傷跡隠してますか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 907,
+          "like_count": 4219,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 461
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T08:52:45.000Z",
+        "description": "病み￤愚痴￤日常￤精神疾患持ち￤DM○￤通話△￤初手タメ×￤お別れはブロ解orブロック💭",
+        "id": "1520325216060121088",
+        "location": "DM返信波あり",
+        "name": "吐血ちゃん。",
+        "pinned_tweet_id": "2064364214752608337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062037450067943424/dNaicny__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 152,
+          "like_count": 4054,
+          "listed_count": 5,
+          "media_count": 17,
+          "tweet_count": 1023
+        },
+        "url": "",
+        "username": "___dracomalfoy_",
+        "verified": false
+      }
+    ]
+  }
+}

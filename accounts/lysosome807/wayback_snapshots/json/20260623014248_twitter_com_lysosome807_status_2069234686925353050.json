@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069234672836677632",
+        "3_2069234672857706496"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "conversation_id": "2069234686925353050",
+    "created_at": "2026-06-23T01:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T02:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069234686925353050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vWkDEJwOaA",
+          "end": 53,
+          "expanded_url": "https://x.com/lysosome807/status/2069234686925353050/photo/1",
+          "media_key": "3_2069234672836677632",
+          "start": 30,
+          "url": "https://t.co/vWkDEJwOaA"
+        },
+        {
+          "display_url": "pic.x.com/vWkDEJwOaA",
+          "end": 53,
+          "expanded_url": "https://x.com/lysosome807/status/2069234686925353050/photo/1",
+          "media_key": "3_2069234672857706496",
+          "start": 30,
+          "url": "https://t.co/vWkDEJwOaA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069234686925353050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "红宝石胶囊🩸，光照下很漂亮...可惜一张对上焦的图都没有（ https://t.co/vWkDEJwOaA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1658,
+        "media_key": "3_2069234672836677632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdl-L9aEAAu8Mv.jpg",
+        "width": 1910
+      },
+      {
+        "height": 1674,
+        "media_key": "3_2069234672857706496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLdl-MCa8AA09X0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069234672836677632",
+            "3_2069234672857706496"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "conversation_id": "2069234686925353050",
+        "created_at": "2026-06-23T01:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069234686925353050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWkDEJwOaA",
+              "end": 53,
+              "expanded_url": "https://x.com/lysosome807/status/2069234686925353050/photo/1",
+              "media_key": "3_2069234672836677632",
+              "start": 30,
+              "url": "https://t.co/vWkDEJwOaA"
+            },
+            {
+              "display_url": "pic.x.com/vWkDEJwOaA",
+              "end": 53,
+              "expanded_url": "https://x.com/lysosome807/status/2069234686925353050/photo/1",
+              "media_key": "3_2069234672857706496",
+              "start": 30,
+              "url": "https://t.co/vWkDEJwOaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069234686925353050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "红宝石胶囊🩸，光照下很漂亮...可惜一张对上焦的图都没有（ https://t.co/vWkDEJwOaA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 908,
+          "like_count": 4229,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 464
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

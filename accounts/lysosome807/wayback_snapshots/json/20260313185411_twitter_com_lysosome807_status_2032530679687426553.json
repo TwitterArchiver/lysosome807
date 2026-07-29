@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2032530679687426553",
+    "created_at": "2026-03-13T18:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T19:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032530679687426553"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032530679687426553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁能告诉我伤口长肉的时候又痒又痛怎么办，真的好痒于是忍不住去抓结果又破了，又长起来了又痒继续抓又破，无限循环...明明只是浅得要死的猫抓印子但真的好痒，迟迟愈合不上用手链手表盖起来就会痒死，感觉一直被室友看着真的好烦🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2032530679687426553",
+        "created_at": "2026-03-13T18:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T19:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032530679687426553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032530679687426553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能告诉我伤口长肉的时候又痒又痛怎么办，真的好痒于是忍不住去抓结果又破了，又长起来了又痒继续抓又破，无限循环...明明只是浅得要死的猫抓印子但真的好痒，迟迟愈合不上用手链手表盖起来就会痒死，感觉一直被室友看着真的好烦🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "20⬆️，中文/English⭕️ ，不知道在干什么",
+        "id": "1707350362787913728",
+        "location": "没有立锥之地",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 617,
+          "like_count": 2510,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 68
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2068327131982221461",
+    "created_at": "2026-06-21T05:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068564694600999268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068564694600999268",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068327131982221461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 17是掉进甜甜的棉花糖里了嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2068327131982221461",
+        "created_at": "2026-06-21T05:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068564694600999268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068564694600999268",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068327131982221461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 17是掉进甜甜的棉花糖里了嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2068327131982221461",
+        "created_at": "2026-06-20T13:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068327131982221461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068327131982221461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 528,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "碎金浮动的梦 慵懒柔和的晨曦 全世界都是温热的棉絮 一呼一吸之间轻颤棉絮在呼吸\n时间如蜂蜜般缓缓流淌\n一切都带着晕染的边\n一切都被温柔拉长\n一场披着晨雾长裙的梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 905,
+          "like_count": 4210,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互fo评论/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 1549,
+          "like_count": 5531,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 2489
+        },
+        "url": "",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

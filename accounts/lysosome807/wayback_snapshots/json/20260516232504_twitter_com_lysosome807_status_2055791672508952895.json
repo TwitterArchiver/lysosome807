@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2055791672508952895",
+    "created_at": "2026-05-16T23:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T00:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055791672508952895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "349054800",
+          "start": 3,
+          "username": "nyalra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055791672508952895",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055748816486437231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyalra: 幸せになりたい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2055791672508952895",
+        "created_at": "2026-05-16T23:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T00:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055791672508952895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "349054800",
+              "start": 3,
+              "username": "nyalra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055791672508952895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055748816486437231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyalra: 幸せになりたい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "349054800",
+        "conversation_id": "2055748816486437231",
+        "created_at": "2026-05-16T20:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055748816486437231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055748816486437231",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7935,
+          "like_count": 412,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "幸せになりたい。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 782,
+          "like_count": 3150,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 306
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "◆https://t.co/2RlDkCWnQW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyalra.net",
+                "end": 24,
+                "expanded_url": "https://nyalra.net",
+                "start": 1,
+                "url": "https://t.co/2RlDkCWnQW"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "2005988774371864634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164901,
+          "following_count": 666,
+          "like_count": 395020,
+          "listed_count": 1109,
+          "media_count": 4195,
+          "tweet_count": 43536
+        },
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

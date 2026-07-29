@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2021828368153591970",
+    "created_at": "2026-02-12T06:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021837991430508855"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021837991430508855",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021830516715270203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喝了一圈还是粉的最好喝😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2021828368153591970",
+        "created_at": "2026-02-12T06:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021837991430508855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021837991430508855",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021830516715270203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喝了一圈还是粉的最好喝😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2021828368153591970",
+        "created_at": "2026-02-12T06:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021830516715270203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021830516715270203",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021828386159833445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家附近几家超市都无魔爪，走半天到一家便利店才有，何意味（别说魔爪还怪好喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "20⬆️，中文/English⭕️ ，翻訳機を使う",
+        "id": "1707350362787913728",
+        "name": "水月郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 599,
+          "like_count": 2372,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 28
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

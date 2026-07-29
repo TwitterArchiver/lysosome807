@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2061157133186724138",
+    "created_at": "2026-05-31T18:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T19:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061157133186724138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/privwendley/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/privwendley/status/2060911536378352023",
+          "start": 18,
+          "url": "https://t.co/nYOz6sxODR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061157133186724138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060911536378352023",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "⚡️我想要说的，前人们都说过了⚡️ https://t.co/nYOz6sxODR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2061157133186724138",
+        "created_at": "2026-05-31T18:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061157133186724138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/privwendley/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/privwendley/status/2060911536378352023",
+              "start": 18,
+              "url": "https://t.co/nYOz6sxODR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061157133186724138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060911536378352023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⚡️我想要说的，前人们都说过了⚡️ https://t.co/nYOz6sxODR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042655089228128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060911536378352023",
+        "created_at": "2026-05-31T02:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060911536378352023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060911536378352023",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 177829,
+          "like_count": 12360,
+          "quote_count": 62,
+          "reply_count": 94,
+          "retweet_count": 3550
+        },
+        "reply_settings": "everyone",
+        "text": "É engraçado como você entra no twitter e todos os seus pensamentos já estão no tweet de outra pessoa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 844,
+          "like_count": 3607,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 342
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T17:26:54.000Z",
+        "description": "🚬•☕️•🎱",
+        "id": "2042655089228128256",
+        "name": "ؘ 𝖂",
+        "pinned_tweet_id": "2060834750017700114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061122952339304451/QjACuaHK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 575,
+          "like_count": 7976,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 506
+        },
+        "username": "privwendley",
+        "verified": false
+      }
+    ]
+  }
+}

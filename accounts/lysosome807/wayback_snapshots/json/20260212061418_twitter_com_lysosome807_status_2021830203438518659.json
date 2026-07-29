@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2021829528088457592",
+    "created_at": "2026-02-12T06:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021830203438518659"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021830203438518659",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021829528088457592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呃呃...其实中午那会割手未遂，本来拿了我的刀子去卫生间，结果看到我妈发的她快回来的信息，随机听到门锁响的声音，吓死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2021829528088457592",
+        "created_at": "2026-02-12T06:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021830203438518659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021830203438518659",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021829528088457592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃呃...其实中午那会割手未遂，本来拿了我的刀子去卫生间，结果看到我妈发的她快回来的信息，随机听到门锁响的声音，吓死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2021829528088457592",
+        "created_at": "2026-02-12T06:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021829528088457592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021829528088457592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这周实在太累了，早上本来和 朋友约好了出去，结果睡过了火车，虽然睡了10h+，但是眼睛还是睁不开跟死了一样😇。每天出门前自言自语我不想出去我想睡觉。以后再也不挑战生理极限了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "20⬆️，中文/English⭕️ ，翻訳機を使う",
+        "id": "1707350362787913728",
+        "name": "水月郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 599,
+          "like_count": 2372,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 26
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

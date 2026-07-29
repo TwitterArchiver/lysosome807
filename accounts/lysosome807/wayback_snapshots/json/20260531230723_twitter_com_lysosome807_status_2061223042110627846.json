@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2061172369302200640",
+    "created_at": "2026-05-31T23:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T00:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061223042110627846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1809604484173295620",
+          "start": 0,
+          "username": "for_4ngel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061223042110627846",
+    "in_reply_to_user_id": "1809604484173295620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061204061949718886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@for_4ngel 感谢解答，人的脑子真的很神奇呢～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2061172369302200640",
+        "created_at": "2026-05-31T23:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T00:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061223042110627846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1809604484173295620",
+              "start": 0,
+              "username": "for_4ngel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061223042110627846",
+        "in_reply_to_user_id": "1809604484173295620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061204061949718886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@for_4ngel 感谢解答，人的脑子真的很神奇呢～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809604484173295620",
+        "conversation_id": "2061172369302200640",
+        "created_at": "2026-05-31T21:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T22:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061204061949718886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707350362787913728",
+              "start": 0,
+              "username": "lysosome807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061204061949718886",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061172369302200640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lysosome807 物理疗法包括电休克本质上是通过增强神经可塑性 促进神经元建立新连接 调整旧回路 进而引导认知改变 治疗后出现的恍惚 记忆中断和现实感变化 不能等同于内源解离或药物解离体验 更可能是强烈神经可塑状态下认知重组的急性副作用 表现为短暂定向障碍 记忆空白或疏离感 但确切神经机制尚不清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 849,
+          "like_count": 3651,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 348
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T15:05:18.000Z",
+        "description": "07  |♂ | 双相情感障碍C-PTSD BPD-E  | 自残 | OD | 学过一些人格学，心理学以及药理学 最擅长的是依恋人格学和人格障碍学还有一些od相关的药理学，有问题可以来找我可以把我当情绪垃圾桶，非常乐意解答希望你们都好好的Angel永远在这里🤪，欢迎互fo",
+        "id": "1809604484173295620",
+        "location": "若能成為誰的心臟",
+        "name": "Angel",
+        "pinned_tweet_id": "2060574328085995870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058112788934098944/ke7b7Se3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 410,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 369
+        },
+        "username": "for_4ngel",
+        "verified": false
+      }
+    ]
+  }
+}

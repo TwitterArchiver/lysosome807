@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2049429568063459794",
+    "created_at": "2026-04-29T10:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T11:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049429568063459794"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049429568063459794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又一口气吃掉了一大包并不好吃的饼干，明明吃到一半就已经撑了，已经毫无快乐可言了，却强迫似地根本停不下往嘴里塞食物的动作。最终胃被不喜欢的食物填满，更加想哭了。\n健全人朋友问我为什么不喜欢吃还要吃完呢？是啊，为什么呢..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2049429568063459794",
+        "created_at": "2026-04-29T10:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049429568063459794"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049429568063459794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又一口气吃掉了一大包并不好吃的饼干，明明吃到一半就已经撑了，已经毫无快乐可言了，却强迫似地根本停不下往嘴里塞食物的动作。最终胃被不喜欢的食物填满，更加想哭了。\n健全人朋友问我为什么不喜欢吃还要吃完呢？是啊，为什么呢..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/any｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 716,
+          "like_count": 2771,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 218
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

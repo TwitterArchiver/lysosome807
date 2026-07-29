@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064024630449639424",
+        "3_2064024630445391872",
+        "3_2064024630458015746"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "conversation_id": "2064024642726383945",
+    "created_at": "2026-06-08T16:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T17:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064024642726383945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/s0vNmXCpcO",
+          "end": 90,
+          "expanded_url": "https://x.com/lysosome807/status/2064024642726383945/photo/1",
+          "media_key": "3_2064024630449639424",
+          "start": 67,
+          "url": "https://t.co/s0vNmXCpcO"
+        },
+        {
+          "display_url": "pic.x.com/s0vNmXCpcO",
+          "end": 90,
+          "expanded_url": "https://x.com/lysosome807/status/2064024642726383945/photo/1",
+          "media_key": "3_2064024630445391872",
+          "start": 67,
+          "url": "https://t.co/s0vNmXCpcO"
+        },
+        {
+          "display_url": "pic.x.com/s0vNmXCpcO",
+          "end": 90,
+          "expanded_url": "https://x.com/lysosome807/status/2064024642726383945/photo/1",
+          "media_key": "3_2064024630458015746",
+          "start": 67,
+          "url": "https://t.co/s0vNmXCpcO"
+        },
+        {
+          "display_url": "x.com/mimi_3mi/statu…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/mimi_3mi/status/2058891275542343937",
+          "start": 91,
+          "url": "https://t.co/xRICcgRAK2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064024642726383945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058891275542343937",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是mimi老师活动十周年诶！👏\n这里也发一下我拼的science曲绘拼豆，私自截图致歉QAQ，感谢老师带来这样让人感到温暖的曲子☺️ https://t.co/s0vNmXCpcO https://t.co/xRICcgRAK2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064024630449639424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTjdzmbkAAxHU_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064024630445391872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTjdzlawAA8i1g.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1142,
+        "media_key": "3_2064024630458015746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTjdzobYAI1xD1.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1057,
+        "media_key": "3_2058891271637479424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKms_0asAA0RDS.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064024630449639424",
+            "3_2064024630445391872",
+            "3_2064024630458015746"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "conversation_id": "2064024642726383945",
+        "created_at": "2026-06-08T16:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064024642726383945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s0vNmXCpcO",
+              "end": 90,
+              "expanded_url": "https://x.com/lysosome807/status/2064024642726383945/photo/1",
+              "media_key": "3_2064024630449639424",
+              "start": 67,
+              "url": "https://t.co/s0vNmXCpcO"
+            },
+            {
+              "display_url": "pic.x.com/s0vNmXCpcO",
+              "end": 90,
+              "expanded_url": "https://x.com/lysosome807/status/2064024642726383945/photo/1",
+              "media_key": "3_2064024630445391872",
+              "start": 67,
+              "url": "https://t.co/s0vNmXCpcO"
+            },
+            {
+              "display_url": "pic.x.com/s0vNmXCpcO",
+              "end": 90,
+              "expanded_url": "https://x.com/lysosome807/status/2064024642726383945/photo/1",
+              "media_key": "3_2064024630458015746",
+              "start": 67,
+              "url": "https://t.co/s0vNmXCpcO"
+            },
+            {
+              "display_url": "x.com/mimi_3mi/statu…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/mimi_3mi/status/2058891275542343937",
+              "start": 91,
+              "url": "https://t.co/xRICcgRAK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064024642726383945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058891275542343937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是mimi老师活动十周年诶！👏\n这里也发一下我拼的science曲绘拼豆，私自截图致歉QAQ，感谢老师带来这样让人感到温暖的曲子☺️ https://t.co/s0vNmXCpcO https://t.co/xRICcgRAK2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058891271637479424"
+          ]
+        },
+        "author_id": "4885603273",
+        "conversation_id": "2058891275542343937",
+        "created_at": "2026-05-25T12:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058891275542343937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xlbqa4B1W3",
+              "end": 99,
+              "expanded_url": "https://x.com/mimi_3mi/status/2058891275542343937/photo/1",
+              "media_key": "3_2058891271637479424",
+              "start": 76,
+              "url": "https://t.co/Xlbqa4B1W3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058891275542343937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 106199,
+          "like_count": 5270,
+          "quote_count": 22,
+          "reply_count": 24,
+          "retweet_count": 625
+        },
+        "reply_settings": "everyone",
+        "text": "『サイエンス』がもうじき1000万再生に迫ろうとしている...ฅ(º ﾛ º ฅ)!\n沢山聴いてくれてありがとう。科学者テトちゃんも喜んでます☺️✨️ https://t.co/Xlbqa4B1W3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 869,
+          "like_count": 3989,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 379
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-10T01:01:56.000Z",
+        "description": "曲を作ったりしています。YouTube https://t.co/AHuwPw9hpS ファンアート→#MI民美術部",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 51,
+                "tag": "MI民美術部"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "goo.gl/A9EuqV",
+                "end": 43,
+                "expanded_url": "https://goo.gl/A9EuqV",
+                "start": 20,
+                "url": "https://t.co/AHuwPw9hpS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/55458052",
+                "end": 23,
+                "expanded_url": "http://nicovideo.jp/mylist/55458052",
+                "start": 0,
+                "url": "https://t.co/psIwCswRXQ"
+              }
+            ]
+          }
+        },
+        "id": "4885603273",
+        "location": "何かありましたらmimi_3mi@yahoo.co.jp ",
+        "name": "MIMI",
+        "pinned_tweet_id": "2007033541117530494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983717712783360000/kfISRDZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131690,
+          "following_count": 416,
+          "like_count": 11197,
+          "listed_count": 476,
+          "media_count": 626,
+          "tweet_count": 3287
+        },
+        "url": "https://t.co/psIwCswRXQ",
+        "username": "mimi_3mi",
+        "verified": true
+      }
+    ]
+  }
+}

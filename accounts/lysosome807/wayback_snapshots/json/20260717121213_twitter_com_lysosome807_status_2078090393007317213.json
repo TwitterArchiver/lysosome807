@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2078084511347392766",
+    "created_at": "2026-07-17T12:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078090393007317213"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078090393007317213",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078089488765767812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但公不公平又该找谁申诉呢，本就没有谁许诺过公平。愈发觉得自己只是纯粹倒霉罢了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2078084511347392766",
+        "created_at": "2026-07-17T12:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078090393007317213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078090393007317213",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078089488765767812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但公不公平又该找谁申诉呢，本就没有谁许诺过公平。愈发觉得自己只是纯粹倒霉罢了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2078084511347392766",
+        "created_at": "2026-07-17T12:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078089488765767812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078089488765767812",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078084511347392766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在想所谓“正常人”是不是每天都是这样的感觉，如果是的话，我觉得好不公平。凭什么他们生活的基调就是平静安宁，凭什么我竭尽全力也触碰不到的幸福对他们来说只是日常？如果真的是这样的话，那么他们获得多少世俗的成就都很好理解了，以及他们无法理解情绪障碍的人在经历什么也很好理解了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 913,
+          "like_count": 4355,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

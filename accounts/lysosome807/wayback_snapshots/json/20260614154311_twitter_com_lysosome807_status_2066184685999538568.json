@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2066133384141922640",
+    "created_at": "2026-06-14T15:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066184685999538568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066184685999538568",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066133384141922640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 可以啊但感觉一不小心就会路径依赖（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2066133384141922640",
+        "created_at": "2026-06-14T15:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066184685999538568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066184685999538568",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066133384141922640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 可以啊但感觉一不小心就会路径依赖（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016028559228469252",
+        "conversation_id": "2066133384141922640",
+        "created_at": "2026-06-14T12:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066133384141922640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066133384141922640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 559,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也好想自残呀，体验下内啡肽的感觉ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜同类互fo，私信随意｜人生就应该瞎玩一通",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 894,
+          "like_count": 4144,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 425
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "不线下。随缘回fo👯‍♂️\nip东京学生在读 喜欢收集cd\n交友大欢迎^ ^",
+        "id": "2016028559228469252",
+        "name": "小春",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 203,
+          "like_count": 1175,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 768
+        },
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

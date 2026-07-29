@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2030516911335956661",
+    "created_at": "2026-03-08T05:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T06:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030516911335956661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1342289409584984065",
+          "start": 3,
+          "username": "dzVsGLIa7YdQSw5"
+        },
+        {
+          "end": 37,
+          "id": "322564666",
+          "start": 21,
+          "username": "masumurahiroshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030516911335956661",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030243965711310855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dzVsGLIa7YdQSw5: @masumurahiroshi 「僕はカンパネルラのいる場所を知っている」と呟くジョバンニ。みんなは知らないけど僕は知ってる。悲しみだけではなく、自分だけの確信があるのだと思います。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2030516911335956661",
+        "created_at": "2026-03-08T05:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030516911335956661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1342289409584984065",
+              "start": 3,
+              "username": "dzVsGLIa7YdQSw5"
+            },
+            {
+              "end": 37,
+              "id": "322564666",
+              "start": 21,
+              "username": "masumurahiroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030516911335956661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030243965711310855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dzVsGLIa7YdQSw5: @masumurahiroshi 「僕はカンパネルラのいる場所を知っている」と呟くジョバンニ。みんなは知らないけど僕は知ってる。悲しみだけではなく、自分だけの確信があるのだと思います。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1342289409584984065",
+        "conversation_id": "2030140885149925655",
+        "created_at": "2026-03-07T11:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T12:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030243965711310855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "322564666",
+              "start": 0,
+              "username": "masumurahiroshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030243965711310855",
+        "in_reply_to_user_id": "322564666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 40169,
+          "like_count": 201,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030140885149925655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@masumurahiroshi 「僕はカンパネルラのいる場所を知っている」と呟くジョバンニ。みんなは知らないけど僕は知ってる。悲しみだけではなく、自分だけの確信があるのだと思います。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "20⬆️，中文/English⭕️ ，不知道在干什么",
+        "id": "1707350362787913728",
+        "location": "没有立锥之地",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 613,
+          "like_count": 2478,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 59
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-25T02:05:14.000Z",
+        "description": "#米津玄師 さんの曲が大好きです 。日常のちょっとした事も絵日記的に記録 Instagramは@3939mitsukoです",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "米津玄師"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "3939mitsuko"
+              }
+            ]
+          }
+        },
+        "id": "1342289409584984065",
+        "name": "mitsuko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1342290400610947072/jZozZXsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 234,
+          "like_count": 13738,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 893
+        },
+        "username": "dzVsGLIa7YdQSw5",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-23T11:28:29.000Z",
+        "description": "米沢生まれ、「グスコーブドリの伝記」作画中、米沢観光大使、山形つや姫大使。「銀河鉄道の夜」全四巻、出版《風呂猫》「ひかりの素足」「オツベルと象」ミキハウス、「アタゴオル博物誌」「ヨネザアド幻想  」ヨネザアド・カタツムリ社、全国書店で注文可能です。連絡\nmasumurahiroshi1952@gmail.com",
+        "id": "322564666",
+        "location": "江戸川と利根川の三角州",
+        "name": "ますむらひろし",
+        "pinned_tweet_id": "2030171003054326078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/531720028215709696/SErNVMnw_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35599,
+          "following_count": 95,
+          "like_count": 18520,
+          "listed_count": 722,
+          "media_count": 12099,
+          "tweet_count": 30667
+        },
+        "username": "masumurahiroshi",
+        "verified": false
+      }
+    ]
+  }
+}

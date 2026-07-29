@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018078155626717184"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "conversation_id": "2018078170529091946",
+    "created_at": "2026-02-01T21:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T22:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018078170529091946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ie83iOYo0x",
+          "end": 28,
+          "expanded_url": "https://x.com/lysosome807/status/2018078170529091946/photo/1",
+          "media_key": "3_2018078155626717184",
+          "start": 5,
+          "url": "https://t.co/ie83iOYo0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018078170529091946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "弱い。。 https://t.co/ie83iOYo0x"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018078170529091946].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018078170529091946",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018078170529091946"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018078155626717184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAGnY-sbIAAp0_U.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "中文/English⭕️ ，翻訳機を使う",
+        "id": "1707350362787913728",
+        "name": "水月郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 592,
+          "like_count": 2310,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2052715042345504838",
+    "created_at": "2026-05-09T02:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052944051490742750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942368986051796992",
+          "start": 0,
+          "username": "CunZai1069"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052944051490742750",
+    "in_reply_to_user_id": "1942368986051796992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052715042345504838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CunZai1069 欢迎回到这个并不完美的世界！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2052715042345504838",
+        "created_at": "2026-05-09T02:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052944051490742750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942368986051796992",
+              "start": 0,
+              "username": "CunZai1069"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052944051490742750",
+        "in_reply_to_user_id": "1942368986051796992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052715042345504838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CunZai1069 欢迎回到这个并不完美的世界！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942368986051796992",
+        "conversation_id": "2052715042345504838",
+        "created_at": "2026-05-08T11:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052715042345504838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052715042345504838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 34733,
+          "like_count": 424,
+          "quote_count": 3,
+          "reply_count": 111,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "没招了，这给我救回来了。现代医学你是这个。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 738,
+          "like_count": 2864,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 248
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T23:44:03.000Z",
+        "description": "臭敲代码的 | INTP | 中抑重焦, 貌似还在恶化🙃。喜欢画画和编曲，可以和我私信交流，看到就会回复的！个人网站https://t.co/kOm2R6CHtc但是目前还在搭建中！https://t.co/0gQFjhG3jU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cun-zai.com",
+                "end": 81,
+                "expanded_url": "http://www.cun-zai.com",
+                "start": 58,
+                "url": "https://t.co/kOm2R6CHtc"
+              },
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 114,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 91,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cunzai10692",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cunzai10692",
+                "start": 0,
+                "url": "https://t.co/0gQFjhG3jU"
+              }
+            ]
+          }
+        },
+        "id": "1942368986051796992",
+        "name": "存存之王",
+        "pinned_tweet_id": "2049266886844821694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043509872428490752/r5DJT75y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 509,
+          "like_count": 1436,
+          "listed_count": 4,
+          "media_count": 34,
+          "tweet_count": 359
+        },
+        "url": "https://t.co/0gQFjhG3jU",
+        "username": "CunZai1069",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2061172369302200640",
+    "created_at": "2026-05-31T19:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T20:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061172369302200640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lysosome807/st…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/lysosome807/status/2060047950718607784",
+          "start": 44,
+          "url": "https://t.co/Mt112S6Lq4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061172369302200640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060047950718607784",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种感觉能称为某种“解离”吗？但不是身体与意识的分离，而是主观情绪与客观现实的分离（？ https://t.co/Mt112S6Lq4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2061172369302200640",
+        "created_at": "2026-05-31T19:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T20:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061172369302200640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lysosome807/st…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/lysosome807/status/2060047950718607784",
+              "start": 44,
+              "url": "https://t.co/Mt112S6Lq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061172369302200640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060047950718607784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种感觉能称为某种“解离”吗？但不是身体与意识的分离，而是主观情绪与客观现实的分离（？ https://t.co/Mt112S6Lq4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2060047950718607784",
+        "created_at": "2026-05-28T17:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060047950718607784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060047950718607784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了两次mect，除了肌松导致的肌肉酸痛没什么不适。但脑子里像是隔了一层膜，什么事都记得，但再往前一步或者往情感一步就会想不起来是怎么回事。比如我打开自己的推特timeline就觉得特别陌生，我知道我在看以及因什么契机看药圈“这个事实”，但我想不起来我的“心路历程”，我不知道该怎么描述这种感受.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 844,
+          "like_count": 3625,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 346
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

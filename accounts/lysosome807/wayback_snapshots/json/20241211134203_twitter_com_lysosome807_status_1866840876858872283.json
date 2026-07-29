@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157181954",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783337372406517762",
+          "name": "Online Services - Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Hot Pepper Beauty",
+          "id": "1156639925531398144",
+          "name": "Hot Pepper Beauty"
+        }
+      }
+    ],
+    "conversation_id": "1866840876858872283",
+    "created_at": "2024-12-11T13:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T14:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866840876858872283"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 0,
+          "tag": "想髪で新セカイへ"
+        },
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "宵崎奏"
+        },
+        {
+          "end": 44,
+          "start": 33,
+          "tag": "ロングウェーブパーマ"
+        },
+        {
+          "end": 64,
+          "start": 50,
+          "tag": "ホットペッパービューティー"
+        },
+        {
+          "end": 75,
+          "start": 67,
+          "tag": "劇場版プロセカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 88,
+          "id": "1843968939124244480",
+          "start": 76,
+          "username": "hpb_pjsekai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "hpb-pjsekai.belugacpn.jp/1e38e5af.html?…",
+          "end": 112,
+          "expanded_url": "https://hpb-pjsekai.belugacpn.jp/1e38e5af.html?q=h6HrG5_ts57NypED9XrNHKg3spkqeJQz56udyoOOlgmJTAkZj8VzcI0u8QuTT0BfcpD_FPwD7o-uaar8nje5IoaqkNl9_nOtQKSDUJaMAiq6oSPdOnMC2_IfM1hc8N1BdECnTdViHbU72kqtGIPQpIR5ZADM9_iWnt0GjxA-TdE-_woqVPs6kg==",
+          "images": [
+            {
+              "height": 1256,
+              "url": "https://pbs.twimg.com/news_img/1866840877655789568/qhf3wE2S?format=jpg&name=orig",
+              "width": 2400
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1866840877655789568/qhf3wE2S?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 89,
+          "status": 200,
+          "title": "詳細はこちら",
+          "unwound_url": "https://hpb-pjsekai.belugacpn.jp/1e38e5af.html?q=h6HrG5_ts57NypED9XrNHKg3spkqeJQz56udyoOOlgmJTAkZj8VzcI0u8QuTT0BfcpD_FPwD7o-uaar8nje5IoaqkNl9_nOtQKSDUJaMAiq6oSPdOnMC2_IfM1hc8N1BdECnTdViHbU72kqtGIPQpIR5ZADM9_iWnt0GjxA-TdE-_woqVPs6kg==",
+          "url": "https://t.co/O25B3UDLux"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866840876858872283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#想髪で新セカイへ 新髪型投票キャンペーン\n#宵崎奏 の新髪型は #ロングウェーブパーマ に1票！\n#ホットペッパービューティー × #劇場版プロセカ\n@hpb_pjsekai\nhttps://t.co/O25B3UDLux"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157181954",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337372406517762",
+              "name": "Online Services - Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Hot Pepper Beauty",
+              "id": "1156639925531398144",
+              "name": "Hot Pepper Beauty"
+            }
+          }
+        ],
+        "conversation_id": "1866840876858872283",
+        "created_at": "2024-12-11T13:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T14:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866840876858872283"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "想髪で新セカイへ"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "宵崎奏"
+            },
+            {
+              "end": 44,
+              "start": 33,
+              "tag": "ロングウェーブパーマ"
+            },
+            {
+              "end": 64,
+              "start": 50,
+              "tag": "ホットペッパービューティー"
+            },
+            {
+              "end": 75,
+              "start": 67,
+              "tag": "劇場版プロセカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 88,
+              "id": "1843968939124244480",
+              "start": 76,
+              "username": "hpb_pjsekai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "hpb-pjsekai.belugacpn.jp/1e38e5af.html?…",
+              "end": 112,
+              "expanded_url": "https://hpb-pjsekai.belugacpn.jp/1e38e5af.html?q=h6HrG5_ts57NypED9XrNHKg3spkqeJQz56udyoOOlgmJTAkZj8VzcI0u8QuTT0BfcpD_FPwD7o-uaar8nje5IoaqkNl9_nOtQKSDUJaMAiq6oSPdOnMC2_IfM1hc8N1BdECnTdViHbU72kqtGIPQpIR5ZADM9_iWnt0GjxA-TdE-_woqVPs6kg==",
+              "images": [
+                {
+                  "height": 1256,
+                  "url": "https://pbs.twimg.com/news_img/1866840877655789568/qhf3wE2S?format=jpg&name=orig",
+                  "width": 2400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1866840877655789568/qhf3wE2S?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "詳細はこちら",
+              "unwound_url": "https://hpb-pjsekai.belugacpn.jp/1e38e5af.html?q=h6HrG5_ts57NypED9XrNHKg3spkqeJQz56udyoOOlgmJTAkZj8VzcI0u8QuTT0BfcpD_FPwD7o-uaar8nje5IoaqkNl9_nOtQKSDUJaMAiq6oSPdOnMC2_IfM1hc8N1BdECnTdViHbU72kqtGIPQpIR5ZADM9_iWnt0GjxA-TdE-_woqVPs6kg==",
+              "url": "https://t.co/O25B3UDLux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866840876858872283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#想髪で新セカイへ 新髪型投票キャンペーン\n#宵崎奏 の新髪型は #ロングウェーブパーマ に1票！\n#ホットペッパービューティー × #劇場版プロセカ\n@hpb_pjsekai\nhttps://t.co/O25B3UDLux"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "フォローはお断りします",
+        "id": "1707350362787913728",
+        "name": "lysosome",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707350430743998464/elrOWqHm_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 372,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T10:58:29.000Z",
+        "description": "リクルートのホットペッパービューティーと劇場版プロジェクトセカイがコラボレーションしたキャンペーン公式アカウントです✨​\n\n「#想髪で新セカイへ」\n#ホットペッパービューティー #劇場版プロセカ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 63,
+                "tag": "想髪で新セカイへ"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "tag": "ホットペッパービューティー"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "tag": "劇場版プロセカ"
+              }
+            ]
+          }
+        },
+        "id": "1843968939124244480",
+        "name": "ホットペッパービューティー×劇場版プロジェクトセカイキャンペーン公式",
+        "pinned_tweet_id": "1866438196084842954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864625728073158656/KG_GSgIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6632,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 6,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "username": "hpb_pjsekai",
+        "verified": true
+      }
+    ]
+  }
+}

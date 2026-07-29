@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2041036055043096809",
+    "created_at": "2026-04-06T06:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041036055043096809"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041036055043096809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我已经一个月没割手了快夸我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2041036055043096809",
+        "created_at": "2026-04-06T06:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041036055043096809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041036055043096809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经一个月没割手了快夸我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "20⬆️，中文/English⭕️ ，重度抑郁不健全内容。天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 637,
+          "like_count": 2608,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 78
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

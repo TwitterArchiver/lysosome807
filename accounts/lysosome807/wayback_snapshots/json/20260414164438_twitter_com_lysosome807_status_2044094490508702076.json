@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2044094490508702076",
+    "created_at": "2026-04-14T16:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044094490508702076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/____kirino____…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/____kirino____/status/2043929415319728458",
+          "start": 5,
+          "url": "https://t.co/l0WkgbewMW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044094490508702076",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043929415319728458",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "確かにね https://t.co/l0WkgbewMW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2044094490508702076",
+        "created_at": "2026-04-14T16:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044094490508702076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/____kirino____…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/____kirino____/status/2043929415319728458",
+              "start": 5,
+              "url": "https://t.co/l0WkgbewMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044094490508702076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043929415319728458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "確かにね https://t.co/l0WkgbewMW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009957702206889985",
+        "conversation_id": "2043929415319728458",
+        "created_at": "2026-04-14T05:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043929415319728458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043929415319728458",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 10811,
+          "like_count": 557,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "春は桜と自殺の季節"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane｜20⬆️｜中文/English⭕️ ｜she/her｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 643,
+          "like_count": 2641,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 106
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T11:57:25.000Z",
+        "description": "君のメロディーやその哲学や言葉全てを守る為なら少し位する苦労もいとわない",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/kirinonaka__",
+                "end": 23,
+                "expanded_url": "https://note.com/kirinonaka__",
+                "start": 0,
+                "url": "https://t.co/Uk13N2ojRK"
+              }
+            ]
+          }
+        },
+        "id": "2009957702206889985",
+        "name": "破裂音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015371817050058752/8XfISy85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 162,
+          "like_count": 4282,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 647
+        },
+        "url": "https://t.co/Uk13N2ojRK",
+        "username": "____kirino____",
+        "verified": false
+      }
+    ]
+  }
+}

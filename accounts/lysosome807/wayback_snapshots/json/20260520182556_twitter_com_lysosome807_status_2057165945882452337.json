@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2057089029372621237",
+    "created_at": "2026-05-20T18:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057165945882452337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057165945882452337",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057089029372621237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 小心呼吸抑制啊.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2057089029372621237",
+        "created_at": "2026-05-20T18:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057165945882452337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057165945882452337",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057089029372621237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 小心呼吸抑制啊.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904873292366036992",
+        "conversation_id": "2057089029372621237",
+        "created_at": "2026-05-20T13:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057089029372621237"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057089029372621237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 800,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿片不要跟苯二氮卓联用。。。\n具体的之后再说吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 795,
+          "like_count": 3235,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 321
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜|完全和平主义者\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容\n我们的世界，终会像孩童时，怀着真挚的向往写下的作文一样美好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "世界本该是你 醒来的模样。",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4009,
+          "following_count": 1290,
+          "like_count": 6747,
+          "listed_count": 8,
+          "media_count": 391,
+          "tweet_count": 1468
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

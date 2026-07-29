@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078092958474321921"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "conversation_id": "2078096680726192433",
+    "created_at": "2026-07-17T12:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078096680726192433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8UlleypyQU",
+          "end": 167,
+          "expanded_url": "https://x.com/lysosome807/status/2078096680726192433/photo/1",
+          "media_key": "3_2078092958474321921",
+          "start": 144,
+          "url": "https://t.co/8UlleypyQU"
+        },
+        {
+          "display_url": "x.com/lysosome807/st…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/lysosome807/status/2078084511347392766",
+          "start": 168,
+          "url": "https://t.co/KYlJtPCTL1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078096680726192433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078084511347392766",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实这事的起源是七月初o了一瓶白兔，虽然被抗胆碱能和兴奋剂杂质创得快死了，但依然没有理由地高兴，一直在笑，笑得脸颊都僵了，显然这是二氢可待因的功劳。但药效褪去欣快消失后，我似乎依然维持在“不理解人为什么要自杀”的状态之中...明明知道不合理，但一直在害怕这依然是药效或者我有双相的可能性 https://t.co/8UlleypyQU https://t.co/KYlJtPCTL1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2078092958474321921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbeiRgaQAElqU_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078092958474321921"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "conversation_id": "2078096680726192433",
+        "created_at": "2026-07-17T12:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078096680726192433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8UlleypyQU",
+              "end": 167,
+              "expanded_url": "https://x.com/lysosome807/status/2078096680726192433/photo/1",
+              "media_key": "3_2078092958474321921",
+              "start": 144,
+              "url": "https://t.co/8UlleypyQU"
+            },
+            {
+              "display_url": "x.com/lysosome807/st…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/lysosome807/status/2078084511347392766",
+              "start": 168,
+              "url": "https://t.co/KYlJtPCTL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078096680726192433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078084511347392766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实这事的起源是七月初o了一瓶白兔，虽然被抗胆碱能和兴奋剂杂质创得快死了，但依然没有理由地高兴，一直在笑，笑得脸颊都僵了，显然这是二氢可待因的功劳。但药效褪去欣快消失后，我似乎依然维持在“不理解人为什么要自杀”的状态之中...明明知道不合理，但一直在害怕这依然是药效或者我有双相的可能性 https://t.co/8UlleypyQU https://t.co/KYlJtPCTL1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2078084511347392766",
+        "created_at": "2026-07-17T11:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078084511347392766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078084511347392766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现半个月没发推了诶...\n七月上旬沉浸式体验了一个星期左右的健全生活（也许），至今也不知道怎么回事。像一场梦，或者和某人互换了一段记忆一样，大概就是每天醒来都很平静和清醒，只是天气还不错就觉得生活真美好，以及最诡异的就是我真的无法理解人为什么要自残，为什么要自杀（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 913,
+          "like_count": 4355,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

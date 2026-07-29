@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2047415557369291082",
+    "created_at": "2026-04-23T20:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T21:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047416428828230113"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047416428828230113",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047415557369291082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "白煮蛋和牛奶其实挺有意思。从小都不喜欢吃，没什么味道而且白煮蛋还有点蛋腥味。然而刚开始吃氟西汀的时候，闻着重油重盐的食物就想吐，只能吃极其清淡的东西。于是那时候发现纯牛奶惊为天人的好喝，白煮蛋前所未有地香，后来能吃正常食物了，但依然爱着两样。淳朴的蛋白质和脂肪的香味～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2047415549685370880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGnhmEKbkAAfH4l.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2047415549710471168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGnhmEQakAA_b7p.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2047415557369291082",
+        "created_at": "2026-04-23T20:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047416428828230113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047416428828230113",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047415557369291082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "白煮蛋和牛奶其实挺有意思。从小都不喜欢吃，没什么味道而且白煮蛋还有点蛋腥味。然而刚开始吃氟西汀的时候，闻着重油重盐的食物就想吐，只能吃极其清淡的东西。于是那时候发现纯牛奶惊为天人的好喝，白煮蛋前所未有地香，后来能吃正常食物了，但依然爱着两样。淳朴的蛋白质和脂肪的香味～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047415549685370880",
+            "3_2047415549710471168"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "conversation_id": "2047415557369291082",
+        "created_at": "2026-04-23T20:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047415557369291082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W1kBxsklUC",
+              "end": 169,
+              "expanded_url": "https://x.com/lysosome807/status/2047415557369291082/photo/1",
+              "media_key": "3_2047415549685370880",
+              "start": 146,
+              "url": "https://t.co/W1kBxsklUC"
+            },
+            {
+              "display_url": "pic.x.com/W1kBxsklUC",
+              "end": 169,
+              "expanded_url": "https://x.com/lysosome807/status/2047415557369291082/photo/1",
+              "media_key": "3_2047415549710471168",
+              "start": 146,
+              "url": "https://t.co/W1kBxsklUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047415557369291082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我居然没连成一条吗😠\n对于食物有种莫名的执念，只要我觉得不能吃的东西就一定不会吃，多次验证下来这样的直觉是有用的。山竹长得像蒜不能吃➡️发现味道确实不是我喜欢的；榴莲菠萝蜜味道诡异不能吃➡️发现确实也不喜欢口感；软体动物好可怕➡️不仅味道过于鲜而且还会爆浆啊啊啊...于是这个人更加坚定直觉 https://t.co/W1kBxsklUC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 678,
+          "like_count": 2709,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 176
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

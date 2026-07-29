@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2051902371228426640",
+    "created_at": "2026-05-06T06:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T07:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051904941011403186"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051904941011403186",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051904308187410698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是食物的错，其实它不算难吃甚至还有点好吃，，都是我的错...我现在承受不住一点压力，一旦有一点点焦虑，哪怕只是打游戏卡了一下也不得不填点食物来消解掉...多么懦弱和懒惰啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051904298745995264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnUFpfaIAAWvLr.jpg",
+        "width": 1780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2051902371228426640",
+        "created_at": "2026-05-06T06:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051904941011403186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051904941011403186",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051904308187410698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是食物的错，其实它不算难吃甚至还有点好吃，，都是我的错...我现在承受不住一点压力，一旦有一点点焦虑，哪怕只是打游戏卡了一下也不得不填点食物来消解掉...多么懦弱和懒惰啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051904298745995264"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051902371228426640",
+        "created_at": "2026-05-06T05:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051904308187410698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ywUwRNnc7A",
+              "end": 163,
+              "expanded_url": "https://x.com/lysosome807/status/2051904308187410698/photo/1",
+              "media_key": "3_2051904298745995264",
+              "start": 140,
+              "url": "https://t.co/ywUwRNnc7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051904308187410698",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051902371228426640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过可能跟吃多了有关，就这样一边说着好恶心一边又不断机械地把糖油混合物塞到嘴里，被油浸得要变透明的饼干在胃里水合产热，油腻的灼烧感好恶心好恶心...明知道无论买多少零食都会一晚上吃完，但还是一次又一次重蹈覆辙...很难想象360g饼干一晚上就都吃完了呢，难怪暴食是七宗罪之一，， https://t.co/ywUwRNnc7A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/any｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 730,
+          "like_count": 2849,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 222
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

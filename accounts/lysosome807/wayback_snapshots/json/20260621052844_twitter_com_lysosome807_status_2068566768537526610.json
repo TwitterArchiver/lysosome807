@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2068566768537526610",
+    "created_at": "2026-06-21T05:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068566768537526610"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068566768537526610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "倒了一杯纯牛奶，突然觉得加点可可粉，拌着拌着舔了一下勺子，好苦。又看到旁边有袋白砂糖，于是往里面倒了点。倒着倒着突然意识到这袋糖是不是就是为了冲可可牛奶买的...但我也不能确定，因为现在完全想不起来为什么要买白糖了，它并没有存在于寝室多久。破解过去的自己ing，我的同一性其实很强了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2068566768537526610",
+        "created_at": "2026-06-21T05:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068566768537526610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068566768537526610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "倒了一杯纯牛奶，突然觉得加点可可粉，拌着拌着舔了一下勺子，好苦。又看到旁边有袋白砂糖，于是往里面倒了点。倒着倒着突然意识到这袋糖是不是就是为了冲可可牛奶买的...但我也不能确定，因为现在完全想不起来为什么要买白糖了，它并没有存在于寝室多久。破解过去的自己ing，我的同一性其实很强了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 906,
+          "like_count": 4212,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

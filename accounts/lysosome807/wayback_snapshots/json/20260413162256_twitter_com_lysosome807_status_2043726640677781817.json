@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2043726640677781817",
+    "created_at": "2026-04-13T16:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043726640677781817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1891647399577423872",
+          "start": 3,
+          "username": "yane_0772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043726640677781817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 472
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043640386984579452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yane_0772: し(あわせ)に(なり)たい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2043726640677781817",
+        "created_at": "2026-04-13T16:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043726640677781817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1891647399577423872",
+              "start": 3,
+              "username": "yane_0772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043726640677781817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 472
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043640386984579452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yane_0772: し(あわせ)に(なり)たい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891647399577423872",
+        "conversation_id": "2043640386984579452",
+        "created_at": "2026-04-13T10:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043640386984579452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043640386984579452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 67907,
+          "like_count": 3760,
+          "quote_count": 55,
+          "reply_count": 14,
+          "retweet_count": 472
+        },
+        "reply_settings": "everyone",
+        "text": "し(あわせ)に(なり)たい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "20⬆️｜中文/English⭕️ ｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 643,
+          "like_count": 2638,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 85
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T00:35:40.000Z",
+        "description": "2004 大丈夫になりたい@sem_0772",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "sem_0772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ed7s230ik5zpjd…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ed7s230ik5zpjd3?t=5jA5Ft&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/QULWDJHthg"
+              }
+            ]
+          }
+        },
+        "id": "1891647399577423872",
+        "name": "ごめんね",
+        "pinned_tweet_id": "2039088688173654435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008523897164144640/1GPpluLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6796,
+          "following_count": 3,
+          "like_count": 604,
+          "listed_count": 7,
+          "media_count": 143,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/QULWDJHthg",
+        "username": "yane_0772",
+        "verified": false
+      }
+    ]
+  }
+}

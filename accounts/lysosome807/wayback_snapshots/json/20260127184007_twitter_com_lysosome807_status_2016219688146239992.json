@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016219671679401985"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "conversation_id": "2016219688146239992",
+    "created_at": "2026-01-27T18:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T19:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016219688146239992"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "自傷"
+        },
+        {
+          "end": 28,
+          "start": 21,
+          "tag": "shtwtᅠ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2yuyXlTJnQ",
+          "end": 52,
+          "expanded_url": "https://x.com/lysosome807/status/2016219688146239992/photo/1",
+          "media_key": "3_2016219671679401985",
+          "start": 29,
+          "url": "https://t.co/2yuyXlTJnQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016219688146239992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "old pictureー生きて💕💕#自傷 #shtwtᅠ https://t.co/2yuyXlTJnQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016219688146239992].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016219688146239992",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016219688146239992"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "生きて",
+        "height": 1592,
+        "media_key": "3_2016219671679401985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_sNG-ebAAEyKNh.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "中文/English⭕️ ，翻訳機を使う",
+        "id": "1707350362787913728",
+        "name": "水月郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013275652317724672/9zqq5IJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 587,
+          "like_count": 2303,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 12
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

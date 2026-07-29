@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2080635996270420002",
+    "created_at": "2026-07-24T14:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T15:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080668390851830036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2052592592244858880",
+          "start": 0,
+          "username": "honoka_520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080668390851830036",
+    "in_reply_to_user_id": "2052592592244858880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080635996270420002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honoka_520 おやすみなさい.."
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2080635996270420002].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2080635996270420002",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2080635996270420002"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2080635996270420002",
+        "created_at": "2026-07-24T14:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080668390851830036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2052592592244858880",
+              "start": 0,
+              "username": "honoka_520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080668390851830036",
+        "in_reply_to_user_id": "2052592592244858880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080635996270420002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honoka_520 おやすみなさい.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 923,
+          "like_count": 4416,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 477
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T03:33:20.000Z",
+        "description": "光、Enby（They/Them/It）/我期待着…",
+        "id": "2052592592244858880",
+        "location": "你心里",
+        "name": "穗果🌾",
+        "pinned_tweet_id": "2079405471669329963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052594559608315904/olu6etuK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 302,
+          "like_count": 547,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1317
+        },
+        "url": "",
+        "username": "honoka_520",
+        "verified": false
+      }
+    ]
+  }
+}

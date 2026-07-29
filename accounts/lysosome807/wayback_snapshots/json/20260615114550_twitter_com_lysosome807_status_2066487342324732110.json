@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066487331432124416",
+        "3_2066487331419492352"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066487342324732110",
+    "created_at": "2026-06-15T11:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066487342324732110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iTwpcL2RgP",
+          "end": 27,
+          "expanded_url": "https://x.com/lysosome807/status/2066487342324732110/photo/1",
+          "media_key": "3_2066487331432124416",
+          "start": 4,
+          "url": "https://t.co/iTwpcL2RgP"
+        },
+        {
+          "display_url": "pic.x.com/iTwpcL2RgP",
+          "end": 27,
+          "expanded_url": "https://x.com/lysosome807/status/2066487342324732110/photo/1",
+          "media_key": "3_2066487331419492352",
+          "start": 4,
+          "url": "https://t.co/iTwpcL2RgP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066487342324732110",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "浓🌟✨ https://t.co/iTwpcL2RgP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2066487342324732110].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2066487342324732110",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2066487342324732110"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066487331432124416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2jR3rbUAA8gMG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066487331419492352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2jR3oakAAK2iz.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在评论区废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 895,
+          "like_count": 4162,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 435
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

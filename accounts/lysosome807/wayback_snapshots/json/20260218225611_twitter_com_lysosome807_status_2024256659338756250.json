@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2024256659338756250",
+    "created_at": "2026-02-18T22:56:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T23:56:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024256659338756250"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024256659338756250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这样被浪费掉的人生要是从未开始就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2024256659338756250",
+        "created_at": "2026-02-18T22:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T23:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024256659338756250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024256659338756250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这样被浪费掉的人生要是从未开始就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Hitachi-Naka, Ibaraki, Japan",
+              "geo": {
+                "coordinates": [
+                  140.53479,
+                  36.39659
+                ],
+                "type": "Point"
+              },
+              "locality": "Hitachi-Naka",
+              "region": "Ibaraki"
+            }
+          ]
+        },
+        "description": "20⬆️，中文/English⭕️ ，翻訳機を使う",
+        "id": "1707350362787913728",
+        "location": "分からない",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 608,
+          "like_count": 2417,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 34
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

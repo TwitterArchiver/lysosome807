@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2044097798996668539",
+    "created_at": "2026-04-14T17:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T18:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044099057795436663"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044099057795436663",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044098549575721275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明明已经想清楚了为什么现在又在说，早就想好了当neet花家长的钱花到他们要把我赶出去然后生计无以为继之时就自杀的，而且这样的想法反而让我现在有种玩世不恭的自由感，所以少废话几句吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2044097798996668539",
+        "created_at": "2026-04-14T17:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044099057795436663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044099057795436663",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044098549575721275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明明已经想清楚了为什么现在又在说，早就想好了当neet花家长的钱花到他们要把我赶出去然后生计无以为继之时就自杀的，而且这样的想法反而让我现在有种玩世不恭的自由感，所以少废话几句吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2044097798996668539",
+        "created_at": "2026-04-14T17:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044098549575721275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044098549575721275",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044098286366457930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦哦果然还是只能当neet然后死掉吗啊原来如此我这种不应存在的人本身就应该是这样的结局啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane｜20⬆️｜中文/English⭕️ ｜she/her｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 643,
+          "like_count": 2641,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 111
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

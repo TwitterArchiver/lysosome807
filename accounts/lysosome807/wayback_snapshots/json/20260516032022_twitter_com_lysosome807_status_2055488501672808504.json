@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2055488501672808504",
+    "created_at": "2026-05-16T03:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T04:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055488501672808504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1344415092",
+          "start": 3,
+          "username": "lililjiliijili"
+        }
+      ],
+      "urls": [
+        {
+          "description": "イラスト／つくみず くらげバンチ12周年おめでとうございます。 webサイトの立ち上げと同時期に新人のデビュー作として 参加させていただいたこと、今でもありがたい幸運だったと思っております。 つくみず",
+          "display_url": "kuragebunch.com/info/entry/tsu…",
+          "end": 79,
+          "expanded_url": "https://kuragebunch.com/info/entry/tsukumizu.2025",
+          "images": [
+            {
+              "height": 918,
+              "url": "https://pbs.twimg.com/news_img/2055300945647644672/H1dpYn3x?format=jpg&name=orig",
+              "width": 1300
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2055300945647644672/H1dpYn3x?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 56,
+          "status": 200,
+          "title": "『少女終末旅行』つくみず 12周年記念描きおろしイラスト - 編集部ブログ | くらげバンチ",
+          "unwound_url": "https://kuragebunch.com/info/entry/tsukumizu.2025",
+          "url": "https://t.co/jku0GRhuEu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055488501672808504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 958
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055300903037780311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lililjiliijili: 巨大な時計の残骸を見つけて日時計を作ったりしながら時間の話をしている絵\nhttps://t.co/jku0GRhuEu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2055488501672808504",
+        "created_at": "2026-05-16T03:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055488501672808504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1344415092",
+              "start": 3,
+              "username": "lililjiliijili"
+            }
+          ],
+          "urls": [
+            {
+              "description": "イラスト／つくみず くらげバンチ12周年おめでとうございます。 webサイトの立ち上げと同時期に新人のデビュー作として 参加させていただいたこと、今でもありがたい幸運だったと思っております。 つくみず",
+              "display_url": "kuragebunch.com/info/entry/tsu…",
+              "end": 79,
+              "expanded_url": "https://kuragebunch.com/info/entry/tsukumizu.2025",
+              "images": [
+                {
+                  "height": 918,
+                  "url": "https://pbs.twimg.com/news_img/2055300945647644672/H1dpYn3x?format=jpg&name=orig",
+                  "width": 1300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055300945647644672/H1dpYn3x?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 56,
+              "status": 200,
+              "title": "『少女終末旅行』つくみず 12周年記念描きおろしイラスト - 編集部ブログ | くらげバンチ",
+              "unwound_url": "https://kuragebunch.com/info/entry/tsukumizu.2025",
+              "url": "https://t.co/jku0GRhuEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055488501672808504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 958
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055300903037780311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lililjiliijili: 巨大な時計の残骸を見つけて日時計を作ったりしながら時間の話をしている絵\nhttps://t.co/jku0GRhuEu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344415092",
+        "conversation_id": "2055300903037780311",
+        "created_at": "2026-05-15T14:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055300903037780311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "イラスト／つくみず くらげバンチ12周年おめでとうございます。 webサイトの立ち上げと同時期に新人のデビュー作として 参加させていただいたこと、今でもありがたい幸運だったと思っております。 つくみず",
+              "display_url": "kuragebunch.com/info/entry/tsu…",
+              "end": 59,
+              "expanded_url": "https://kuragebunch.com/info/entry/tsukumizu.2025",
+              "images": [
+                {
+                  "height": 918,
+                  "url": "https://pbs.twimg.com/news_img/2055300945647644672/H1dpYn3x?format=jpg&name=orig",
+                  "width": 1300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2055300945647644672/H1dpYn3x?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "『少女終末旅行』つくみず 12周年記念描きおろしイラスト - 編集部ブログ | くらげバンチ",
+              "unwound_url": "https://kuragebunch.com/info/entry/tsukumizu.2025",
+              "url": "https://t.co/jku0GRhuEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055300903037780311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 723,
+          "impression_count": 196267,
+          "like_count": 5245,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 958
+        },
+        "reply_settings": "everyone",
+        "text": "巨大な時計の残骸を見つけて日時計を作ったりしながら時間の話をしている絵\nhttps://t.co/jku0GRhuEu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 767,
+          "like_count": 3079,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 286
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-11T13:47:24.000Z",
+        "description": "",
+        "id": "1344415092",
+        "name": "𓆟",
+        "pinned_tweet_id": "604742349097279488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275863158276517889/EbNzieU3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235342,
+          "following_count": 246,
+          "like_count": 814,
+          "listed_count": 2236,
+          "media_count": 1434,
+          "tweet_count": 8260
+        },
+        "username": "lililjiliijili",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2049143190482296975",
+    "created_at": "2026-04-28T22:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T23:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049258675722915943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "huaxuejilebaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049258675722915943",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049143190482296975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaxuejilebaike 哇这确实是好东西，我都按升喝的，就是成瘾性太大了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_2049142935728664576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAEpKobsAANUp0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1333,
+        "media_key": "3_2049142935715979264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAEpKlaIAAXpSe.jpg",
+        "width": 1046
+      },
+      {
+        "height": 671,
+        "media_key": "3_2049142976644071424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAErjDbQAAM1GM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2049143190482296975",
+        "created_at": "2026-04-28T22:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T23:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049258675722915943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "huaxuejilebaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049258675722915943",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049143190482296975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaxuejilebaike 哇这确实是好东西，我都按升喝的，就是成瘾性太大了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049142935728664576",
+            "3_2049142935715979264",
+            "3_2049142976644071424"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2049143190482296975",
+        "created_at": "2026-04-28T15:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049143190482296975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/62jJkt8iTu",
+              "end": 63,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2049143190482296975/photo/1",
+              "media_key": "3_2049142935728664576",
+              "start": 40,
+              "url": "https://t.co/62jJkt8iTu"
+            },
+            {
+              "display_url": "pic.x.com/62jJkt8iTu",
+              "end": 63,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2049143190482296975/photo/1",
+              "media_key": "3_2049142935715979264",
+              "start": 40,
+              "url": "https://t.co/62jJkt8iTu"
+            },
+            {
+              "display_url": "pic.x.com/62jJkt8iTu",
+              "end": 63,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/2049143190482296975/photo/1",
+              "media_key": "3_2049142976644071424",
+              "start": 40,
+              "url": "https://t.co/62jJkt8iTu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049143190482296975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 596,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最新实验品，可以给互关的地雷女和xyn用用，成瘾性大，两口上头，有没有想体验的 https://t.co/62jJkt8iTu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/any｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 709,
+          "like_count": 2766,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 200
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "官网：https://t.co/DF7NTAL0F9 TG交流群：https://t.co/ngKDwwK3ao DC交流群：https://t.co/Zb0fsL464g",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 26,
+                "expanded_url": "http://jile.bid",
+                "start": 3,
+                "url": "https://t.co/DF7NTAL0F9"
+              },
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 56,
+                "expanded_url": "http://t.me/weizhanersheng666",
+                "start": 33,
+                "url": "https://t.co/ngKDwwK3ao"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "http://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/Zb0fsL464g"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "2049018733067399405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046789084790890496/tu0DxovY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 932,
+          "like_count": 24342,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 2943
+        },
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

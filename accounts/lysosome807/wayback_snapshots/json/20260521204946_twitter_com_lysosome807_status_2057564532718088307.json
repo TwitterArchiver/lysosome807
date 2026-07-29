@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2057564532718088307",
+    "created_at": "2026-05-21T20:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T21:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057564532718088307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "349054800",
+          "start": 3,
+          "username": "nyalra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057564532718088307",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057552675923984879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyalra: 嫌いな時間ランキング1位\n\n5時"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2057564532718088307",
+        "created_at": "2026-05-21T20:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057564532718088307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "349054800",
+              "start": 3,
+              "username": "nyalra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057564532718088307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057552675923984879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyalra: 嫌いな時間ランキング1位\n\n5時"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "349054800",
+        "conversation_id": "2057552675923984879",
+        "created_at": "2026-05-21T20:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T21:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057552675923984879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057552675923984879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3144,
+          "like_count": 144,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "嫌いな時間ランキング1位\n\n5時"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 810,
+          "like_count": 3275,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 335
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "◆https://t.co/2RlDkCWnQW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyalra.net",
+                "end": 24,
+                "expanded_url": "https://nyalra.net",
+                "start": 1,
+                "url": "https://t.co/2RlDkCWnQW"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "2005988774371864634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164987,
+          "following_count": 666,
+          "like_count": 395546,
+          "listed_count": 1105,
+          "media_count": 4200,
+          "tweet_count": 43591
+        },
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

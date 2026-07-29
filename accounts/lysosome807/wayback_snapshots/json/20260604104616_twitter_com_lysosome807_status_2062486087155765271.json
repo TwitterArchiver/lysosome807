@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2062377726733139994",
+    "created_at": "2026-06-04T10:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062486087155765271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833795907470704640",
+          "start": 0,
+          "username": "lynn_m57596"
+        },
+        {
+          "end": 26,
+          "id": "2031954172732719112",
+          "start": 13,
+          "username": "Minastear030"
+        },
+        {
+          "end": 40,
+          "id": "2041380427873566720",
+          "start": 27,
+          "username": "shigin218150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062486087155765271",
+    "in_reply_to_user_id": "1833795907470704640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062377726733139994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lynn_m57596 @Minastear030 @shigin218150 哇啊啊啊感谢！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2062377726733139994",
+        "created_at": "2026-06-04T10:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062486087155765271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833795907470704640",
+              "start": 0,
+              "username": "lynn_m57596"
+            },
+            {
+              "end": 26,
+              "id": "2031954172732719112",
+              "start": 13,
+              "username": "Minastear030"
+            },
+            {
+              "end": 40,
+              "id": "2041380427873566720",
+              "start": 27,
+              "username": "shigin218150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062486087155765271",
+        "in_reply_to_user_id": "1833795907470704640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062377726733139994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lynn_m57596 @Minastear030 @shigin218150 哇啊啊啊感谢！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833795907470704640",
+        "conversation_id": "2062377726733139994",
+        "created_at": "2026-06-04T03:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062377726733139994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 53,
+              "id": "2031954172732719112",
+              "start": 40,
+              "username": "Minastear030"
+            },
+            {
+              "end": 69,
+              "id": "1707350362787913728",
+              "start": 57,
+              "username": "lysosome807"
+            },
+            {
+              "end": 86,
+              "id": "2041380427873566720",
+              "start": 73,
+              "username": "shigin218150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062377726733139994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 333,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在终于要开奖的时候被msk一巴掌拍死了一天，ok我也是回归进行一个开奖！\n一等：@Minastear030\n二等：@lysosome807\n三等：@shigin218150\n感谢各位的参与🤤🤤🤤祝大家天天好运🥺🌹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 856,
+          "like_count": 3762,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 359
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T09:13:22.000Z",
+        "description": "😖纯社恐大鼠欢迎各位找我聊天，双相偶尔发癫🖐️😭🖐️\n💊+互fo欢迎\n本账号含有：💊｜负能量碎碎念｜丑画｜偶尔色色；不接受请左转",
+        "id": "1833795907470704640",
+        "name": "软鼠",
+        "pinned_tweet_id": "2012454215260733710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021277904718659584/8sN9IxiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 127,
+          "like_count": 1563,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 293
+        },
+        "username": "lynn_m57596",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T04:43:39.000Z",
+        "description": "前世@minastear1︱艰难找回互关中︱18↑︱荒诞主义者︱oder︱友跨顺女泛性恋︱之前这里有一段个性签名但是我忘了是什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "minastear1"
+              }
+            ]
+          }
+        },
+        "id": "2031954172732719112",
+        "location": "Eden",
+        "name": "Minastear",
+        "pinned_tweet_id": "2032141633345712556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032141006750302211/tUre2IlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 139,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 170
+        },
+        "username": "Minastear030",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T05:00:30.000Z",
+        "description": "我🔪💊 🚪13.14我是乖孩子求你们入门\n大号 @___murasaki99 宝贝 @h1zh816060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "___murasaki99"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "h1zh816060"
+              }
+            ]
+          }
+        },
+        "id": "2041380427873566720",
+        "name": "murasaki（二代机）",
+        "pinned_tweet_id": "2041881289738088785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041426222723612672/s6DEL3HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 145,
+          "like_count": 3022,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 389
+        },
+        "username": "shigin218150",
+        "verified": false
+      }
+    ]
+  }
+}

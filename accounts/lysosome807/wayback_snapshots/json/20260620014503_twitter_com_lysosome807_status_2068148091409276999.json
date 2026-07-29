@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2068148091409276999",
+    "created_at": "2026-06-20T01:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068148091409276999"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068148091409276999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在还是看不懂长段文字，好寂寞好痛苦，简单一点的可以理解，但涉及到复杂情节或者表达方式的就没办法看懂了。我想看书，我想看番，什么都没有的世界真的很无聊很寂寞。我好害怕再也恢复不了，如今才意识到曾经习以为常的流畅阅读理解能力是多么可贵，才意识到我是多么离不开从文本获取情感的方式。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2068148091409276999",
+        "created_at": "2026-06-20T01:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068148091409276999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068148091409276999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在还是看不懂长段文字，好寂寞好痛苦，简单一点的可以理解，但涉及到复杂情节或者表达方式的就没办法看懂了。我想看书，我想看番，什么都没有的世界真的很无聊很寂寞。我好害怕再也恢复不了，如今才意识到曾经习以为常的流畅阅读理解能力是多么可贵，才意识到我是多么离不开从文本获取情感的方式。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 903,
+          "like_count": 4196,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 453
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

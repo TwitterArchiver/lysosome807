@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2052675770628350100",
+    "created_at": "2026-05-08T17:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T18:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052798044018716695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1890704652083269632",
+          "start": 0,
+          "username": "Swift742810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052798044018716695",
+    "in_reply_to_user_id": "1890704652083269632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052675770628350100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swift742810 杯面成精(//∇//)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2052675330566160384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyRVm2agAA7i8T.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2052675770628350100",
+        "created_at": "2026-05-08T17:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052798044018716695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1890704652083269632",
+              "start": 0,
+              "username": "Swift742810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052798044018716695",
+        "in_reply_to_user_id": "1890704652083269632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052675770628350100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swift742810 杯面成精(//∇//)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052675330566160384"
+          ]
+        },
+        "author_id": "1890704652083269632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052675770628350100",
+        "created_at": "2026-05-08T09:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052675770628350100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kh248yYZXG",
+              "end": 40,
+              "expanded_url": "https://x.com/Swift742810/status/2052675770628350100/photo/1",
+              "media_key": "3_2052675330566160384",
+              "start": 17,
+              "url": "https://t.co/Kh248yYZXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052675770628350100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2551,
+          "like_count": 309,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "我看着好合适就买了，效果暴击…… https://t.co/Kh248yYZXG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 737,
+          "like_count": 2864,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 243
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T10:08:23.000Z",
+        "description": "20↑   まふ奏，非常喜欢小奏\n中文、日文、English均可\n文在Pixiv以及Privatter处更新",
+        "id": "1890704652083269632",
+        "name": "言木Swift",
+        "pinned_tweet_id": "2033273408319066358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025176172611645440/N7RUtoyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 35,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 167
+        },
+        "username": "Swift742810",
+        "verified": false
+      }
+    ]
+  }
+}

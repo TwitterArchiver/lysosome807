@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2057019568401551500",
+    "created_at": "2026-05-20T18:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057164378789855680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852895432269234176",
+          "start": 0,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057164378789855680",
+    "in_reply_to_user_id": "1852895432269234176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057019568401551500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@432Ifantrygroup 说实话，我同理心泛滥看到这个只觉得这个同学好可怜，完全笑不出来...😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2057019568401551500",
+        "created_at": "2026-05-20T18:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057164378789855680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057164378789855680",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057019568401551500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup 说实话，我同理心泛滥看到这个只觉得这个同学好可怜，完全笑不出来...😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852895432269234176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2057019568401551500",
+        "created_at": "2026-05-20T08:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057019568401551500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IgnoredReal/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/IgnoredReal/status/2056914544510013660",
+              "start": 49,
+              "url": "https://t.co/e6HGI3ksBi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057019568401551500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3292,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056914544510013660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心理健康问题不见得就一定表现为抑郁，也可能会变现出障碍和躁狂，这个学生八成有很严重的心理健康问题 https://t.co/e6HGI3ksBi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 795,
+          "like_count": 3235,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 320
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2057093487007609026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 3850,
+          "like_count": 37457,
+          "listed_count": 4,
+          "media_count": 405,
+          "tweet_count": 10148
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023515722497105920",
+        "3_2023515722522259457"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "conversation_id": "2023515523968102803",
+    "created_at": "2026-02-16T21:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T22:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023515732060094490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QGF3BDzo57",
+          "end": 26,
+          "expanded_url": "https://x.com/lysosome807/status/2023515732060094490/photo/1",
+          "media_key": "3_2023515722497105920",
+          "start": 3,
+          "url": "https://t.co/QGF3BDzo57"
+        },
+        {
+          "display_url": "pic.x.com/QGF3BDzo57",
+          "end": 26,
+          "expanded_url": "https://x.com/lysosome807/status/2023515732060094490/photo/1",
+          "media_key": "3_2023515722522259457",
+          "start": 3,
+          "url": "https://t.co/QGF3BDzo57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023515732060094490",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023515523968102803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "困了 https://t.co/QGF3BDzo57"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023515722497105920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBT41BzboAAmGbx.jpg",
+        "width": 1016
+      },
+      {
+        "height": 1528,
+        "media_key": "3_2023515722522259457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBT41B5bcAEcesu.jpg",
+        "width": 1169
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023515515474550784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBT4o-laIAATT-M.jpg",
+        "width": 1035
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023515515474563072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBT4o-laUAAfE9A.jpg",
+        "width": 1029
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023515515612954624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBT4o_GaAAAxrx6.jpg",
+        "width": 1025
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023515515474636800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBT4o-lbcAA9RT8.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023515722497105920",
+            "3_2023515722522259457"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "conversation_id": "2023515523968102803",
+        "created_at": "2026-02-16T21:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T22:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023515732060094490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGF3BDzo57",
+              "end": 26,
+              "expanded_url": "https://x.com/lysosome807/status/2023515732060094490/photo/1",
+              "media_key": "3_2023515722497105920",
+              "start": 3,
+              "url": "https://t.co/QGF3BDzo57"
+            },
+            {
+              "display_url": "pic.x.com/QGF3BDzo57",
+              "end": 26,
+              "expanded_url": "https://x.com/lysosome807/status/2023515732060094490/photo/1",
+              "media_key": "3_2023515722522259457",
+              "start": 3,
+              "url": "https://t.co/QGF3BDzo57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023515732060094490",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023515523968102803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "困了 https://t.co/QGF3BDzo57"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023515515474550784",
+            "3_2023515515474563072",
+            "3_2023515515612954624",
+            "3_2023515515474636800"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "conversation_id": "2023515523968102803",
+        "created_at": "2026-02-16T21:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T22:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023515523968102803"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "ジェミ子",
+              "probability": 0.6309,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tOY0gO7fH5",
+              "end": 28,
+              "expanded_url": "https://x.com/lysosome807/status/2023515523968102803/photo/1",
+              "media_key": "3_2023515515474550784",
+              "start": 5,
+              "url": "https://t.co/tOY0gO7fH5"
+            },
+            {
+              "display_url": "pic.x.com/tOY0gO7fH5",
+              "end": 28,
+              "expanded_url": "https://x.com/lysosome807/status/2023515523968102803/photo/1",
+              "media_key": "3_2023515515474563072",
+              "start": 5,
+              "url": "https://t.co/tOY0gO7fH5"
+            },
+            {
+              "display_url": "pic.x.com/tOY0gO7fH5",
+              "end": 28,
+              "expanded_url": "https://x.com/lysosome807/status/2023515523968102803/photo/1",
+              "media_key": "3_2023515515612954624",
+              "start": 5,
+              "url": "https://t.co/tOY0gO7fH5"
+            },
+            {
+              "display_url": "pic.x.com/tOY0gO7fH5",
+              "end": 28,
+              "expanded_url": "https://x.com/lysosome807/status/2023515523968102803/photo/1",
+              "media_key": "3_2023515515474636800",
+              "start": 5,
+              "url": "https://t.co/tOY0gO7fH5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023515523968102803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ジェミ子 https://t.co/tOY0gO7fH5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Hitachi-Naka, Ibaraki, Japan",
+              "geo": {
+                "coordinates": [
+                  140.53479,
+                  36.39659
+                ],
+                "type": "Point"
+              },
+              "locality": "Hitachi-Naka",
+              "region": "Ibaraki"
+            }
+          ]
+        },
+        "description": "20⬆️，中文/English⭕️ ，翻訳機を使う",
+        "id": "1707350362787913728",
+        "location": "分からない",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 604,
+          "like_count": 2401,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 31
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2044505442135753143",
+    "created_at": "2026-04-15T19:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T20:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044505442135753143"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044505442135753143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠我靠，我正在这割手，室友突然推门而入，吓得我把刀直接扔飞了，我靠希望没看见吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2044505442135753143",
+        "created_at": "2026-04-15T19:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T20:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044505442135753143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044505442135753143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我靠，我正在这割手，室友突然推门而入，吓得我把刀直接扔飞了，我靠希望没看见吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane｜20⬆️｜中文/English⭕️ ｜顺女同 she/they｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 648,
+          "like_count": 2656,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 119
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

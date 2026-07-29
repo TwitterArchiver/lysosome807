@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2065963539031015773",
+    "created_at": "2026-06-14T01:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065963539031015773"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cococij7/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/cococij7/status/2065631871111967223",
+          "start": 8,
+          "url": "https://t.co/OeRiLjtLwd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065963539031015773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065631871111967223",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可爱啊www https://t.co/OeRiLjtLwd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2065963539031015773",
+        "created_at": "2026-06-14T01:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065963539031015773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cococij7/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/cococij7/status/2065631871111967223",
+              "start": 8,
+              "url": "https://t.co/OeRiLjtLwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065963539031015773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065631871111967223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可爱啊www https://t.co/OeRiLjtLwd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061833348251787264",
+        "conversation_id": "2065631871111967223",
+        "created_at": "2026-06-13T03:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065631871111967223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065631871111967223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1608,
+          "impression_count": 2675015,
+          "like_count": 60496,
+          "quote_count": 72,
+          "reply_count": 87,
+          "retweet_count": 1099
+        },
+        "reply_settings": "everyone",
+        "text": "精神科の先生にどこで死のうとしたか聞かれて、地元で1番大きいダムの名前答えたら「うーーんあそこかｧ！ありゃ落ちたら死んじゃうからダメだねえ」って陽気に返されて笑った。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 889,
+          "like_count": 4127,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 420
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T15:32:32.000Z",
+        "description": "17⬇️/♀/不登校 /鬱回復日記\n病み垢さん以外の男の人無理です。",
+        "id": "2061833348251787264",
+        "name": "よる",
+        "pinned_tweet_id": "2065693916205392320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065012819352014848/LaqXIgGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 59,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 101
+        },
+        "username": "Cococij7",
+        "verified": false
+      }
+    ]
+  }
+}

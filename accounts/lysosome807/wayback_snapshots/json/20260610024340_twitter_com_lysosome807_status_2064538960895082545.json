@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2064519522309345658",
+    "created_at": "2026-06-10T02:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T03:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064538960895082545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1863233896403628033",
+          "start": 0,
+          "username": "dontweepalone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064538960895082545",
+    "in_reply_to_user_id": "1863233896403628033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064519522309345658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dontweepalone 讨厌仿佛输出了才算“存在”的世界，爽到了就是胜利✌️（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2064519522309345658",
+        "created_at": "2026-06-10T02:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T03:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064538960895082545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1863233896403628033",
+              "start": 0,
+              "username": "dontweepalone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064538960895082545",
+        "in_reply_to_user_id": "1863233896403628033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064519522309345658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dontweepalone 讨厌仿佛输出了才算“存在”的世界，爽到了就是胜利✌️（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863233896403628033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2064519522309345658",
+        "created_at": "2026-06-10T01:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064519522309345658"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064519522309345658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我是那种读了一堆书但说不上好坏 哲学书只是流过脑子 也不懂文学但热衷在豆瓣上打四星五星的高评分 把阅读纯粹当作审美体验 然而苦于自己什么也输不出于是只好在他人的文字里实现精神自慰 的人。()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 887,
+          "like_count": 4068,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 397
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T14:49:35.000Z",
+        "description": "@mnweeper二世\nINFP｜4w5｜06｜agender(they)｜lgbtqa+全友好｜acearo｜精神障碍｜shtwt｜欢迎互fo^_^\nWelcome to my funeral.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "mnweeper"
+              }
+            ]
+          }
+        },
+        "id": "1863233896403628033",
+        "name": "Mnweeper_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063267130548908032/lNkisJk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 158,
+          "like_count": 1040,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 201
+        },
+        "username": "dontweepalone",
+        "verified": false
+      }
+    ]
+  }
+}

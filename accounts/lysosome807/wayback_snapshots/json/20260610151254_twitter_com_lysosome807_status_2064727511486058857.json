@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2064727072560525629",
+    "created_at": "2026-06-10T15:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T16:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064727511486058857"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064727511486058857",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064727072560525629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我只能做一个贪婪的享用者，却没有往tl上贡献一些美好事物的能力，好难过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2064727072560525629",
+        "created_at": "2026-06-10T15:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064727511486058857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064727511486058857",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064727072560525629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只能做一个贪婪的享用者，却没有往tl上贡献一些美好事物的能力，好难过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2064727072560525629",
+        "created_at": "2026-06-10T15:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064727072560525629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064727072560525629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好喜欢tl上姐姐们的摄影作品，让我想起小时候文具店里买的lomo卡片上印的图。看到美好的作品真的好开心好开心！！！可总觉得引用转发有种盗用别人创意之嫌，但还是想和姐姐们互动，真的没有别的意思，不喜随时可删😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 891,
+          "like_count": 4091,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 410
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

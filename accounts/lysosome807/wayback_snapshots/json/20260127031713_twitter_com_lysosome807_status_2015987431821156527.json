@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015987419582017536"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2015987431821156527",
+    "created_at": "2026-01-27T03:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T04:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015987431821156527"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 8,
+          "tag": "朝比奈まふゆ誕生日2026"
+        },
+        {
+          "end": 31,
+          "start": 23,
+          "tag": "prsk_FA"
+        },
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "朝比奈まふゆ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4X5Lv6TU4m",
+          "end": 63,
+          "expanded_url": "https://x.com/lysosome807/status/2015987431821156527/photo/1",
+          "media_key": "3_2015987419582017536",
+          "start": 40,
+          "url": "https://t.co/4X5Lv6TU4m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015987431821156527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢你降生于世 #朝比奈まふゆ誕生日2026 #prsk_FA #朝比奈まふゆ https://t.co/4X5Lv6TU4m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2015987419582017536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_o54H_XsAA3syI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015987419582017536"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2015987431821156527",
+        "created_at": "2026-01-27T03:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T04:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015987431821156527"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 8,
+              "tag": "朝比奈まふゆ誕生日2026"
+            },
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "朝比奈まふゆ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4X5Lv6TU4m",
+              "end": 63,
+              "expanded_url": "https://x.com/lysosome807/status/2015987431821156527/photo/1",
+              "media_key": "3_2015987419582017536",
+              "start": 40,
+              "url": "https://t.co/4X5Lv6TU4m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015987431821156527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢你降生于世 #朝比奈まふゆ誕生日2026 #prsk_FA #朝比奈まふゆ https://t.co/4X5Lv6TU4m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "中文/English⭕️ ，翻訳機を使う",
+        "id": "1707350362787913728",
+        "name": "水月郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013275652317724672/9zqq5IJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 586,
+          "like_count": 2287,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

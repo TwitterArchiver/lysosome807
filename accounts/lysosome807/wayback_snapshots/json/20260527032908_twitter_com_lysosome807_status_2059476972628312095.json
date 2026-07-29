@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2059476972628312095",
+    "created_at": "2026-05-27T03:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059476972628312095"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059476972628312095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做完mect头痛，一想到这个破生活依然莫名其妙地想死，一打开推看到还有这么多（？）💊可以尝试，就这样诡异地缓解了点..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2059476972628312095",
+        "created_at": "2026-05-27T03:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059476972628312095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059476972628312095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做完mect头痛，一想到这个破生活依然莫名其妙地想死，一打开推看到还有这么多（？）💊可以尝试，就这样诡异地缓解了点..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 828,
+          "like_count": 3423,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 319
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

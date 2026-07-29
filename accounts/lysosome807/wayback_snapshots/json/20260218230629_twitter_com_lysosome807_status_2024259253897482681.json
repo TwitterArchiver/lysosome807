@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2024258672202043659",
+    "created_at": "2026-02-18T23:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T00:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024259253897482681"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024259253897482681",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024258672202043659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想去mect，想被全麻。如果我能有过量丙泊酚岂不是爽死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2024258672202043659",
+        "created_at": "2026-02-18T23:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T00:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024259253897482681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024259253897482681",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024258672202043659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想去mect，想被全麻。如果我能有过量丙泊酚岂不是爽死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2024258672202043659",
+        "created_at": "2026-02-18T23:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T00:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024258672202043659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024258672202043659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对的，要是能莫名其妙猝死就好了，或者谁来把我杀了，自杀好麻烦要考虑好多事情我好累，而且遗书就用之前的备份好了，也不想写了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Hitachi-Naka, Ibaraki, Japan",
+              "geo": {
+                "coordinates": [
+                  140.53479,
+                  36.39659
+                ],
+                "type": "Point"
+              },
+              "locality": "Hitachi-Naka",
+              "region": "Ibaraki"
+            }
+          ]
+        },
+        "description": "20⬆️，中文/English⭕️ ，翻訳機を使う",
+        "id": "1707350362787913728",
+        "location": "分からない",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 608,
+          "like_count": 2417,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 37
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

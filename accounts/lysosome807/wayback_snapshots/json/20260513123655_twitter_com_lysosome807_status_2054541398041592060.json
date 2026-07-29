@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054541388499566592"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Painting",
+          "id": "847869659957182464",
+          "name": "Painting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Painting",
+          "id": "847869659957182464",
+          "name": "Painting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2054541398041592060",
+    "created_at": "2026-05-13T12:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054541398041592060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9YtnhcLxH0",
+          "end": 68,
+          "expanded_url": "https://x.com/lysosome807/status/2054541398041592060/photo/1",
+          "media_key": "3_2054541388499566592",
+          "start": 45,
+          "url": "https://t.co/9YtnhcLxH0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054541398041592060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "花瓣、与惊恐字体（可阅读文本见alt）\n（*艺术创作注意辨别，均为水彩颜料，无不良引导） https://t.co/9YtnhcLxH0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2054541398041592060].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2054541398041592060",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2054541398041592060"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "alt_text": "我一直在抖。\n毛巾被好热，但我不想出来。头好痛啊，一跳一跳地痛。\n可我不想死，我只是无法存在。\n*需要被销除的个体，连自我清除的权利都没有资格拥有。",
+        "height": 1536,
+        "media_key": "3_2054541388499566592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMygeXawAA7bZI.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 759,
+          "like_count": 3029,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 277
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

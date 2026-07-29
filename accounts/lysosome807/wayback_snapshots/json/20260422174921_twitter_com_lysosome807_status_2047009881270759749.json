@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2047009806347915318",
+    "created_at": "2026-04-22T17:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047009881270759749"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047009881270759749",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047009806347915318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "同样的甚至更坏的条件下，为什么只有我变成了这样呢。但我还是想知道怎么办，我想寻找到什么答案吧，我该如何存在...之类的。这样的生活太过无聊，可我没有才华去创造什么，所以痛苦也只是毫无意义的无病呻吟，连做一个neet也是无趣至极不值得同情的那种人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2047009806347915318",
+        "created_at": "2026-04-22T17:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047009881270759749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047009881270759749",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047009806347915318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同样的甚至更坏的条件下，为什么只有我变成了这样呢。但我还是想知道怎么办，我想寻找到什么答案吧，我该如何存在...之类的。这样的生活太过无聊，可我没有才华去创造什么，所以痛苦也只是毫无意义的无病呻吟，连做一个neet也是无趣至极不值得同情的那种人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2047009806347915318",
+        "created_at": "2026-04-22T17:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047009806347915318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047009806347915318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可是我还是会一遍又一遍地问“我该怎么办”，我已经不想问“为什么”了，到如今这个地步的理由已经不重要了，或许就是我生来如此吧，这样的性格这样的思维方式，注定只能以这样的形态活在这个世界上，即使对我说那是社会是学校是家长共谋的系统性压迫也无济于事，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 675,
+          "like_count": 2693,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 164
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

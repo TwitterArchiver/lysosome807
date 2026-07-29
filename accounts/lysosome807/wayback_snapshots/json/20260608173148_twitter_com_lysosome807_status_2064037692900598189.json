@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064037687921954816"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "conversation_id": "2064037692900598189",
+    "created_at": "2026-06-08T17:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T18:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064037692900598189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Take the quiz that no one survives. Discover your dumbest possible way to die.",
+          "display_url": "infinitetweet.me/dumb-ways-to-d…",
+          "end": 39,
+          "expanded_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2063954106507767809/m28rSFZq?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2063954106507767809/m28rSFZq?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "Dumb Ways to Die • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+          "url": "https://t.co/WRNZ5Onumx"
+        },
+        {
+          "display_url": "pic.x.com/jEThkUSsdt",
+          "end": 63,
+          "expanded_url": "https://x.com/lysosome807/status/2064037692900598189/photo/1",
+          "media_key": "3_2064037687921954816",
+          "start": 40,
+          "url": "https://t.co/jEThkUSsdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064037692900598189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我死的方式和时间\n\n⠀➡️ https://t.co/WRNZ5Onumx https://t.co/jEThkUSsdt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 455,
+        "media_key": "3_2064037687921954816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTvV2ebUAAf28o.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064037687921954816"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "conversation_id": "2064037692900598189",
+        "created_at": "2026-06-08T17:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T18:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064037692900598189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Take the quiz that no one survives. Discover your dumbest possible way to die.",
+              "display_url": "infinitetweet.me/dumb-ways-to-d…",
+              "end": 39,
+              "expanded_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2063954106507767809/m28rSFZq?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2063954106507767809/m28rSFZq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Dumb Ways to Die • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "url": "https://t.co/WRNZ5Onumx"
+            },
+            {
+              "display_url": "pic.x.com/jEThkUSsdt",
+              "end": 63,
+              "expanded_url": "https://x.com/lysosome807/status/2064037692900598189/photo/1",
+              "media_key": "3_2064037687921954816",
+              "start": 40,
+              "url": "https://t.co/jEThkUSsdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064037692900598189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我死的方式和时间\n\n⠀➡️ https://t.co/WRNZ5Onumx https://t.co/jEThkUSsdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 869,
+          "like_count": 4000,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 384
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

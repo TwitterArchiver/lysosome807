@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2052314065939399116",
+    "created_at": "2026-05-07T09:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052314065939399116"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052314065939399116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天一睁眼开始处理烂摊子到处道歉，抱歉上课缺勤、抱歉又睡过了咨询、抱歉课程替代表还没填、抱歉小组作业信息没看到，对不起啊助教对不起啊老师对不起啊同学，对不起啊我不该还赖在学校不走.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2052314065939399116",
+        "created_at": "2026-05-07T09:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052314065939399116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052314065939399116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天一睁眼开始处理烂摊子到处道歉，抱歉上课缺勤、抱歉又睡过了咨询、抱歉课程替代表还没填、抱歉小组作业信息没看到，对不起啊助教对不起啊老师对不起啊同学，对不起啊我不该还赖在学校不走.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/any｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 732,
+          "like_count": 2852,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 231
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

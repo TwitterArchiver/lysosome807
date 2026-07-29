@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2066466445408514492",
+    "created_at": "2026-06-15T11:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066478574857863530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1799795163843436544",
+          "start": 0,
+          "username": "BeetiIsDog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066478574857863530",
+    "in_reply_to_user_id": "1799795163843436544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066466445408514492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BeetiIsDog 想要能条件接纳自己的人，想要能无条件包容自己的地方，想要能不被评判的自由时间……总之想回到不会受伤的地方"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066466445408514492].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066466445408514492",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066466445408514492"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2066466445408514492",
+        "created_at": "2026-06-15T11:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066478574857863530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1799795163843436544",
+              "start": 0,
+              "username": "BeetiIsDog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066478574857863530",
+        "in_reply_to_user_id": "1799795163843436544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066466445408514492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BeetiIsDog 想要能条件接纳自己的人，想要能无条件包容自己的地方，想要能不被评判的自由时间……总之想回到不会受伤的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在评论区废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 895,
+          "like_count": 4161,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 434
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "常助無傷,愛全奉全 ,prema everyone. ||繪垢@rabbitteradio|| 不混圈,喜歡畫畫、天文學、神經科學、羅小黑還有藤井風 || 一些標籤: HeteroAce/afab/ESFP/ADHDer || 友人:@sysjf0 @Cheese_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "rabbitteradio"
+              },
+              {
+                "end": 124,
+                "start": 117,
+                "username": "sysjf0"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "Cheese_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風の歌の中",
+        "name": "ビーチイ小犬",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062499847358533632/bA9Z56TP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 1002,
+          "like_count": 43457,
+          "listed_count": 1,
+          "media_count": 531,
+          "tweet_count": 9087
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

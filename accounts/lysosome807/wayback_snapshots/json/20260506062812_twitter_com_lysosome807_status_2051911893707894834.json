@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2051902371228426640",
+    "created_at": "2026-05-06T06:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T07:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051911893707894834"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051911893707894834",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051911339938054428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过其实正常情绪也不过是这个通路，只是刺激物是环境罢了，就化学本质而言毫无差别，，可理性上认同本质主义还原论，似乎还是有一些渴望获得自然流露情感的心情呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2051902371228426640",
+        "created_at": "2026-05-06T06:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051911893707894834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051911893707894834",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051911339938054428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过其实正常情绪也不过是这个通路，只是刺激物是环境罢了，就化学本质而言毫无差别，，可理性上认同本质主义还原论，似乎还是有一些渴望获得自然流露情感的心情呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2051902371228426640",
+        "created_at": "2026-05-06T06:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051911339938054428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051911339938054428",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051902371228426640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都是要摄入一些化学物质才能保证存活，都是靠外来物质干预这些破神经细胞，模拟出一些所谓的体验和情绪，那么按处方服药和od又有什么本质区别呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/any｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 730,
+          "like_count": 2847,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 228
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

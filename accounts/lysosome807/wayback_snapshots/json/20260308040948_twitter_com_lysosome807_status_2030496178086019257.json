@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2030490998921679112",
+    "created_at": "2026-03-08T04:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T05:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030496178086019257"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030496178086019257",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030490998921679112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我到现在也不知道该怎么面对丧失"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2030490998921679112",
+        "created_at": "2026-03-08T04:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T05:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030496178086019257"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030496178086019257",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030490998921679112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我到现在也不知道该怎么面对丧失"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2030490998921679112",
+        "created_at": "2026-03-08T03:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030490998921679112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030490998921679112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候看到银河铁道之夜都想哭，我现在在听06剧场版的配乐，看85相关，又想把这些看一遍了，即使当时看的时候哭得难受得要死..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "20⬆️，中文/English⭕️ ，不知道在干什么",
+        "id": "1707350362787913728",
+        "location": "没有立锥之地",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 613,
+          "like_count": 2478,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 58
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2045074529115164957",
+    "created_at": "2026-04-17T09:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T10:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045074529115164957"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045074529115164957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被世界施舍一点甜就心甘情愿说着“要活下去！”这样的心情是怎样的呢？曾经有过，但上一次说这样的大话又是什么时候呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2045074529115164957",
+        "created_at": "2026-04-17T09:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045074529115164957"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045074529115164957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被世界施舍一点甜就心甘情愿说着“要活下去！”这样的心情是怎样的呢？曾经有过，但上一次说这样的大话又是什么时候呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane｜20⬆️｜中文/English⭕️ ｜顺女同 she/they｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 656,
+          "like_count": 2668,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 136
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

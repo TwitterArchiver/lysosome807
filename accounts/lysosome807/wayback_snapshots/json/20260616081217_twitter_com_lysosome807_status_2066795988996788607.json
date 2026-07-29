@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2066792894992953797",
+    "created_at": "2026-06-16T08:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066795988996788607"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066795988996788607",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066795605532491888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然而还是无能为力。我向来不害怕理论知识，但依然无法“直接把我的症状拿给你看”，这个过程只能通过语言，但是没有相似经验的两个人的语言怎么能够互相理解呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2066792894992953797",
+        "created_at": "2026-06-16T08:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066795988996788607"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066795988996788607",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066795605532491888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然而还是无能为力。我向来不害怕理论知识，但依然无法“直接把我的症状拿给你看”，这个过程只能通过语言，但是没有相似经验的两个人的语言怎么能够互相理解呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2066792894992953797",
+        "created_at": "2026-06-16T08:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066795605532491888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066795605532491888",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066792894992953797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直是以至少医学生的要求对待我自己的精神病的，可还是没法把课本上的名字和我的情况对上，也没办法把我的想法准确表述出去。即使医生拥有理论知识➡️临床经验的对应，患者具有症状感受➡️语言表达的传递，我要求着自己能像半个医学生一样尝试做到症状感受➡️理论知识的对照以弥补语言带来的信息失真"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在评论区废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 896,
+          "like_count": 4160,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 441
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

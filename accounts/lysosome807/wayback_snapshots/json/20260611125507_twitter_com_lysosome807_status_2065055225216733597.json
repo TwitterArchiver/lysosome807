@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2065021010223812759",
+    "created_at": "2026-06-11T12:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065055225216733597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850587533924876288",
+          "start": 0,
+          "username": "NewYear_NewYear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065055225216733597",
+    "in_reply_to_user_id": "1850587533924876288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065051250685862043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NewYear_NewYear 别这样啊，虽然我也还没毕业，但我和我的同学又休学又延毕，不会完蛋的，祈祷985还能苟一苟吧，实在不行去搞教培什么的招摇撞骗呢😫😫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2065021010223812759",
+        "created_at": "2026-06-11T12:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065055225216733597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850587533924876288",
+              "start": 0,
+              "username": "NewYear_NewYear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065055225216733597",
+        "in_reply_to_user_id": "1850587533924876288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065051250685862043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NewYear_NewYear 别这样啊，虽然我也还没毕业，但我和我的同学又休学又延毕，不会完蛋的，祈祷985还能苟一苟吧，实在不行去搞教培什么的招摇撞骗呢😫😫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850587533924876288",
+        "conversation_id": "2065021010223812759",
+        "created_at": "2026-06-11T12:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065051250685862043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707350362787913728",
+              "start": 0,
+              "username": "lysosome807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065051250685862043",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065046173749223794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lysosome807 😭😭😭\n主要是我不想休学我觉得休学会终结我的人生……\n这个人在担心什么到底"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 892,
+          "like_count": 4103,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 414
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T17:17:25.000Z",
+        "description": "永远幸福\n//匿名提问  ：https://t.co/rquZe4g4c0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/newyear53907",
+                "end": 37,
+                "expanded_url": "https://ngl.link/newyear53907",
+                "start": 14,
+                "url": "https://t.co/rquZe4g4c0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "littlehuang.icu",
+                "end": 23,
+                "expanded_url": "http://littlehuang.icu/",
+                "start": 0,
+                "url": "https://t.co/dyHb3S5fte"
+              }
+            ]
+          }
+        },
+        "id": "1850587533924876288",
+        "location": "已有闺",
+        "name": "小荒荒荒荒",
+        "pinned_tweet_id": "2048579663258362333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920523219120926720/ymJ-UJY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 467,
+          "like_count": 12143,
+          "listed_count": 1,
+          "media_count": 948,
+          "tweet_count": 6398
+        },
+        "url": "https://t.co/dyHb3S5fte",
+        "username": "NewYear_NewYear",
+        "verified": false
+      }
+    ]
+  }
+}

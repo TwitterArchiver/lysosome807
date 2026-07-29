@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2044097798996668539",
+    "created_at": "2026-04-14T16:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044097798996668539"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044097798996668539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天还看到一个帖子说大学毕业生在快餐店打工被蛐蛐的，我无法想象我以后去摇奶茶拍大饼的时候会被排挤成什么样，即使不说学校时间线也很难圆回来，没钱租房只能在老家打工更是名字一查就被开盒了，这sb大学真的害死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2044097798996668539",
+        "created_at": "2026-04-14T16:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044097798996668539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044097798996668539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天还看到一个帖子说大学毕业生在快餐店打工被蛐蛐的，我无法想象我以后去摇奶茶拍大饼的时候会被排挤成什么样，即使不说学校时间线也很难圆回来，没钱租房只能在老家打工更是名字一查就被开盒了，这sb大学真的害死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane｜20⬆️｜中文/English⭕️ ｜she/her｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 643,
+          "like_count": 2641,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 108
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2052937391498043577",
+    "created_at": "2026-05-09T10:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053067428830257279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053067428830257279",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053055673337053684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ 剧烈害怕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2052937391498043577",
+        "created_at": "2026-05-09T10:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053067428830257279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053067428830257279",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053055673337053684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ 剧烈害怕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3012350599",
+        "conversation_id": "2052937391498043577",
+        "created_at": "2026-05-09T10:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053055673337053684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707350362787913728",
+              "start": 0,
+              "username": "lysosome807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053055673337053684",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052937391498043577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lysosome807 剧烈胃痛警告"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 738,
+          "like_count": 2865,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 250
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "毛绒娃娃回家计划🐰🍊/#すこ部 推し /💕@GiveProofToLove 🫎@mukdengise🐑@jinpingslutflop 可以叫我桔桔/我要出去玩了！！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 11,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 21,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "mukdengise"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "jinpingslutflop"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "Daegu, Republic of Korea",
+        "name": "小学桔🧃",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4448,
+          "following_count": 498,
+          "like_count": 42974,
+          "listed_count": 17,
+          "media_count": 3259,
+          "tweet_count": 45568
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

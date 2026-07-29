@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2081254559025115241",
+    "created_at": "2026-07-26T05:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T06:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081254559025115241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuruhuwa_kdenp…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/yuruhuwa_kdenpa/status/2080625274358771801",
+          "start": 67,
+          "url": "https://t.co/W2XlE2O4tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081254559025115241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080625274358771801",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每次看到这种jk的照片或视频都莫名想哭😭，好羡慕好羡慕这种我从未有过的青春活力...我完全不敢回忆我的中学时代，细想就要惊恐发作了（ https://t.co/W2XlE2O4tv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 487,
+        "media_key": "3_2080624764868349952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_dMzTb0AADGVt.jpg",
+        "width": 867
+      },
+      {
+        "height": 487,
+        "media_key": "3_2080624772158038016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_dNOdboAAVi5H.jpg",
+        "width": 867
+      },
+      {
+        "height": 487,
+        "media_key": "3_2080624804978360320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_dPIuaAAARYY-.jpg",
+        "width": 867
+      },
+      {
+        "height": 487,
+        "media_key": "3_2080624846321680384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_dRivbAAANYTx.jpg",
+        "width": 867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2081254559025115241",
+        "created_at": "2026-07-26T05:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T06:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081254559025115241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuruhuwa_kdenp…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/yuruhuwa_kdenpa/status/2080625274358771801",
+              "start": 67,
+              "url": "https://t.co/W2XlE2O4tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081254559025115241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080625274358771801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次看到这种jk的照片或视频都莫名想哭😭，好羡慕好羡慕这种我从未有过的青春活力...我完全不敢回忆我的中学时代，细想就要惊恐发作了（ https://t.co/W2XlE2O4tv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080624764868349952",
+            "3_2080624772158038016",
+            "3_2080624804978360320",
+            "3_2080624846321680384"
+          ]
+        },
+        "author_id": "201969770",
+        "conversation_id": "2080625274358771801",
+        "created_at": "2026-07-24T12:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080625274358771801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i34dbnjzYu",
+              "end": 83,
+              "expanded_url": "https://x.com/yuruhuwa_kdenpa/status/2080625274358771801/photo/1",
+              "media_key": "3_2080624764868349952",
+              "start": 60,
+              "url": "https://t.co/i34dbnjzYu"
+            },
+            {
+              "display_url": "pic.x.com/i34dbnjzYu",
+              "end": 83,
+              "expanded_url": "https://x.com/yuruhuwa_kdenpa/status/2080625274358771801/photo/1",
+              "media_key": "3_2080624772158038016",
+              "start": 60,
+              "url": "https://t.co/i34dbnjzYu"
+            },
+            {
+              "display_url": "pic.x.com/i34dbnjzYu",
+              "end": 83,
+              "expanded_url": "https://x.com/yuruhuwa_kdenpa/status/2080625274358771801/photo/1",
+              "media_key": "3_2080624804978360320",
+              "start": 60,
+              "url": "https://t.co/i34dbnjzYu"
+            },
+            {
+              "display_url": "pic.x.com/i34dbnjzYu",
+              "end": 83,
+              "expanded_url": "https://x.com/yuruhuwa_kdenpa/status/2080625274358771801/photo/1",
+              "media_key": "3_2080624846321680384",
+              "start": 60,
+              "url": "https://t.co/i34dbnjzYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080625274358771801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7038,
+          "impression_count": 14596555,
+          "like_count": 97057,
+          "quote_count": 521,
+          "reply_count": 133,
+          "retweet_count": 3622
+        },
+        "reply_settings": "everyone",
+        "text": "40.8℃を記録した三重県桑名市\n\n取材受けしてたJK達のテンションが青春すぎて眩しい\n\nこのクソ暑い中元気なのが若い https://t.co/i34dbnjzYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 926,
+          "like_count": 4442,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 476
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-13T01:08:31.000Z",
+        "description": "中卒。バイトを解雇され日雇いに。月給9万円 抑うつ状態 多重債務者 40代男性 体重113kgハゲ童貞 友人宅で暮らしながら婚活中 毎日電波にのって放送されるニュースの感想を書きつつ集団ストーカー対策を実践中（有資格者：4等うどん技師）ご飯記録(@http_kouryonin) メモ帳(@yuruhuwa_memo)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 123,
+                "username": "http_kouryonin"
+              },
+              {
+                "end": 158,
+                "start": 144,
+                "username": "yuruhuwa_memo"
+              }
+            ]
+          }
+        },
+        "id": "201969770",
+        "location": "熊谷↔大宮↔立川↔神田",
+        "name": "ゆるふわ怪電波☆埼玉",
+        "pinned_tweet_id": "1747077206734704881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1338521150763061256/KX97iM7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57529,
+          "following_count": 879,
+          "like_count": 15309,
+          "listed_count": 728,
+          "media_count": 43533,
+          "tweet_count": 77337
+        },
+        "url": "",
+        "username": "yuruhuwa_kdenpa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2049421571518001194",
+    "created_at": "2026-04-29T09:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049424364169556302"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049424364169556302",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049421571518001194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且老钟小孩似乎都没什么对物品的所有权，小时候我的玩具，中学时我的课本，都会被家长以送人情的名义“借走”，然后再也不还。亲戚家的小孩会把我珍爱的玩具搞得稀烂，把我的毛绒小熊的腿掰掉，用黑笔把脸上画得乱七八糟，把同学送我的礼物打碎，随意翻我的抽屉和柜子。他们的父母丝毫不管，（3/n）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2049421571518001194",
+        "created_at": "2026-04-29T09:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049424364169556302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049424364169556302",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049421571518001194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且老钟小孩似乎都没什么对物品的所有权，小时候我的玩具，中学时我的课本，都会被家长以送人情的名义“借走”，然后再也不还。亲戚家的小孩会把我珍爱的玩具搞得稀烂，把我的毛绒小熊的腿掰掉，用黑笔把脸上画得乱七八糟，把同学送我的礼物打碎，随意翻我的抽屉和柜子。他们的父母丝毫不管，（3/n）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2049421571518001194",
+        "created_at": "2026-04-29T09:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049421571518001194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lvtgw666/statu…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/lvtgw666/status/2049148202746814499",
+              "start": 135,
+              "url": "https://t.co/8lg9ldypoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049421571518001194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049148202746814499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小一的时候和我妈去城郊玩，在田埂发现一只被捕鼠夹夹住后腿的野兔，我妈就把它救了出来带回家，还给它骨折的腿绑了夹板固定，养在家里卫生间一个有一米多高的纸箱里，我很喜欢这个小兔子，还把这件事写进了日记里。后来有一天我妈说兔子跳出箱子自己从厨房台子上跳下来摔死了，（1/n） https://t.co/8lg9ldypoB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/any｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 716,
+          "like_count": 2771,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 212
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051904298745995264"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2051902371228426640",
+    "created_at": "2026-05-06T05:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051904308187410698"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ywUwRNnc7A",
+          "end": 163,
+          "expanded_url": "https://x.com/lysosome807/status/2051904308187410698/photo/1",
+          "media_key": "3_2051904298745995264",
+          "start": 140,
+          "url": "https://t.co/ywUwRNnc7A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051904308187410698",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051902371228426640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过可能跟吃多了有关，就这样一边说着好恶心一边又不断机械地把糖油混合物塞到嘴里，被油浸得要变透明的饼干在胃里水合产热，油腻的灼烧感好恶心好恶心...明知道无论买多少零食都会一晚上吃完，但还是一次又一次重蹈覆辙...很难想象360g饼干一晚上就都吃完了呢，难怪暴食是七宗罪之一，， https://t.co/ywUwRNnc7A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051904298745995264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnUFpfaIAAWvLr.jpg",
+        "width": 1780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051904298745995264"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051902371228426640",
+        "created_at": "2026-05-06T05:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051904308187410698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ywUwRNnc7A",
+              "end": 163,
+              "expanded_url": "https://x.com/lysosome807/status/2051904308187410698/photo/1",
+              "media_key": "3_2051904298745995264",
+              "start": 140,
+              "url": "https://t.co/ywUwRNnc7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051904308187410698",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051902371228426640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过可能跟吃多了有关，就这样一边说着好恶心一边又不断机械地把糖油混合物塞到嘴里，被油浸得要变透明的饼干在胃里水合产热，油腻的灼烧感好恶心好恶心...明知道无论买多少零食都会一晚上吃完，但还是一次又一次重蹈覆辙...很难想象360g饼干一晚上就都吃完了呢，难怪暴食是七宗罪之一，， https://t.co/ywUwRNnc7A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2051902371228426640",
+        "created_at": "2026-05-06T05:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051902371228426640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051902371228426640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好晕...说起来只是一天没好好吃药就这么难受吗，死文拉法辛漏服一次就难受得要死，眼球只要一动就晕得恶心，摇头或者滚动屏幕都想吐。而且有种宿醉的感觉，晃晃悠悠晃晃悠悠，触觉钝化思维停滞嘿嘿嘿...模拟解离吗这是（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/any｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 730,
+          "like_count": 2849,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 221
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

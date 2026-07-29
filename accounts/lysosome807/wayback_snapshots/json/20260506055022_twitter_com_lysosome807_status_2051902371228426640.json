@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2051902371228426640",
+    "created_at": "2026-05-06T05:50:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:50:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051902371228426640"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051902371228426640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好晕...说起来只是一天没好好吃药就这么难受吗，死文拉法辛漏服一次就难受得要死，眼球只要一动就晕得恶心，摇头或者滚动屏幕都想吐。而且有种宿醉的感觉，晃晃悠悠晃晃悠悠，触觉钝化思维停滞嘿嘿嘿...模拟解离吗这是（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2051902371228426640",
+        "created_at": "2026-05-06T05:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051902371228426640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051902371228426640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好晕...说起来只是一天没好好吃药就这么难受吗，死文拉法辛漏服一次就难受得要死，眼球只要一动就晕得恶心，摇头或者滚动屏幕都想吐。而且有种宿醉的感觉，晃晃悠悠晃晃悠悠，触觉钝化思维停滞嘿嘿嘿...模拟解离吗这是（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/any｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 730,
+          "like_count": 2849,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 220
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

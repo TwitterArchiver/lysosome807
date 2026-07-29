@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2043785335176605886",
+    "created_at": "2026-04-13T20:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T21:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043785878762598845"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043785878762598845",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043785335176605886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以你快回来吧，我好想你，即使我清楚地知道这只是强烈的移情，可是我没办法停止对你的依恋。是我唯一的光了，谢谢你告诉我理解和关爱的含义，即使终会离别也没有关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2043785335176605886",
+        "created_at": "2026-04-13T20:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T21:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043785878762598845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043785878762598845",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043785335176605886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以你快回来吧，我好想你，即使我清楚地知道这只是强烈的移情，可是我没办法停止对你的依恋。是我唯一的光了，谢谢你告诉我理解和关爱的含义，即使终会离别也没有关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2043785335176605886",
+        "created_at": "2026-04-13T20:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T21:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043785335176605886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043785335176605886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "うつちゆ〜うつちゆ〜\n我真的是那种依从性很好的患者哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane｜20⬆️｜中文/English⭕️ ｜she/her｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 643,
+          "like_count": 2639,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 96
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

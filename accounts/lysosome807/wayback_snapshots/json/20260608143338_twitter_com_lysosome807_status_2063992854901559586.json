@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063992843174301696"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063992854901559586",
+    "created_at": "2026-06-08T14:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063992854901559586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VqGYdHGnYT",
+          "end": 42,
+          "expanded_url": "https://x.com/lysosome807/status/2063992854901559586/photo/1",
+          "media_key": "3_2063992843174301696",
+          "start": 19,
+          "url": "https://t.co/VqGYdHGnYT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063992854901559586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "学校超市有卖和乐怡的了，太好了！！！ https://t.co/VqGYdHGnYT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2063992843174301696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTGjixaUAAyKV8.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063992843174301696"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063992854901559586",
+        "created_at": "2026-06-08T14:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063992854901559586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VqGYdHGnYT",
+              "end": 42,
+              "expanded_url": "https://x.com/lysosome807/status/2063992854901559586/photo/1",
+              "media_key": "3_2063992843174301696",
+              "start": 19,
+              "url": "https://t.co/VqGYdHGnYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063992854901559586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学校超市有卖和乐怡的了，太好了！！！ https://t.co/VqGYdHGnYT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 868,
+          "like_count": 3984,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 372
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

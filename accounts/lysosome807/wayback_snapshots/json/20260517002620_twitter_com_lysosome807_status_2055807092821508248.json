@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2055807092821508248",
+    "created_at": "2026-05-17T00:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T01:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055807092821508248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PuCUMKT936",
+          "end": 167,
+          "expanded_url": "https://x.com/lysosome807/status/2055807092821508248/photo/1",
+          "media_key": "3_2055805215191040000",
+          "start": 144,
+          "url": "https://t.co/PuCUMKT936"
+        },
+        {
+          "display_url": "x.com/skyw315/status…",
+          "end": 191,
+          "expanded_url": "https://twitter.com/skyw315/status/2055681074416820558",
+          "start": 168,
+          "url": "https://t.co/werSMqWElo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055807092821508248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055681074416820558",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最右側のモルヒネ構造と「モルヒネ」を合わせると「禍」字のように見えますが、これはデザインの一部でしょうか？とても面白いです！彼女が必要としている人々と互いに鎮痛剤となり、禰智禍さまはとても魅力的なキャラクターですね。(翻訳機）\n\n吗啡结构式和“ネ”合起来好像“祸”，照应袮智祸的名字（？ https://t.co/PuCUMKT936 https://t.co/werSMqWElo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7855,
+        "height": 1080,
+        "media_key": "13_2055680744903905281",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055680744903905281/img/6El7k8WMV4Yho6bt.jpg",
+        "public_metrics": {
+          "view_count": 2334
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055680744903905281/vid/avc1/1920x1080/sO2_o2tgsk6wS2J7.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055680744903905281/vid/avc1/480x270/R7Zd8H49i5nel2Gk.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055680744903905281/vid/avc1/640x360/d96PAPRkzH3sfSls.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055680744903905281/vid/avc1/1280x720/Iy6N4to0FVbxhQXy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055680744903905281/pl/yGb_BoMkqkWU3XGL.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2055807092821508248",
+        "created_at": "2026-05-17T00:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055807092821508248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PuCUMKT936",
+              "end": 167,
+              "expanded_url": "https://x.com/lysosome807/status/2055807092821508248/photo/1",
+              "media_key": "3_2055805215191040000",
+              "start": 144,
+              "url": "https://t.co/PuCUMKT936"
+            },
+            {
+              "display_url": "x.com/skyw315/status…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/skyw315/status/2055681074416820558",
+              "start": 168,
+              "url": "https://t.co/werSMqWElo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055807092821508248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055681074416820558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最右側のモルヒネ構造と「モルヒネ」を合わせると「禍」字のように見えますが、これはデザインの一部でしょうか？とても面白いです！彼女が必要としている人々と互いに鎮痛剤となり、禰智禍さまはとても魅力的なキャラクターですね。(翻訳機）\n\n吗啡结构式和“ネ”合起来好像“祸”，照应袮智祸的名字（？ https://t.co/PuCUMKT936 https://t.co/werSMqWElo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055680744903905281"
+          ]
+        },
+        "author_id": "1708980810",
+        "conversation_id": "2055681074416820558",
+        "created_at": "2026-05-16T16:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055681074416820558"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MpEQyoRW1f",
+              "end": 53,
+              "expanded_url": "https://x.com/skyw315/status/2055681074416820558/video/1",
+              "media_key": "13_2055680744903905281",
+              "start": 30,
+              "url": "https://t.co/MpEQyoRW1f"
+            },
+            {
+              "display_url": "x.com/needygirl_anim…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/needygirl_anime/status/2055679920110444906",
+              "start": 54,
+              "url": "https://t.co/OamcXxqeNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055681074416820558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 16278,
+          "like_count": 271,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055679920110444906",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "共依存モルヒネ/禰智禍さま\nMV制作しました💎\n#ニディガ https://t.co/MpEQyoRW1f https://t.co/OamcXxqeNk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 782,
+          "like_count": 3154,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 306
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-29T04:23:14.000Z",
+        "description": "読みはダンジョウ ソラです。絵と映像をしています。 \n▼contact https://t.co/IP6dw2jaJh \nғᴀɴᴀʀᴛ💔#sorapiart\n通販💘 https://t.co/z2r8PSMRsI",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 68,
+                "tag": "sorapiart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/skyw315",
+                "end": 59,
+                "expanded_url": "https://lit.link/skyw315",
+                "start": 36,
+                "url": "https://t.co/IP6dw2jaJh"
+              },
+              {
+                "display_url": "skyw315.booth.pm",
+                "end": 106,
+                "expanded_url": "https://skyw315.booth.pm/",
+                "start": 83,
+                "url": "https://t.co/z2r8PSMRsI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skyw315.wixsite.com/skyw315/works",
+                "end": 23,
+                "expanded_url": "https://skyw315.wixsite.com/skyw315/works",
+                "start": 0,
+                "url": "https://t.co/sFqswVhHTo"
+              }
+            ]
+          }
+        },
+        "id": "1708980810",
+        "location": "AI学習・無断転載禁止です",
+        "name": "檀上大空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006382439074263040/1c-lDHjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74122,
+          "following_count": 542,
+          "like_count": 9382,
+          "listed_count": 600,
+          "media_count": 683,
+          "tweet_count": 765
+        },
+        "url": "https://t.co/sFqswVhHTo",
+        "username": "skyw315",
+        "verified": true
+      }
+    ]
+  }
+}

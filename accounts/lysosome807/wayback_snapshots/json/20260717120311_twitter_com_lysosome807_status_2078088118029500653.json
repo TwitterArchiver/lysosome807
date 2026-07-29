@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2078084511347392766",
+    "created_at": "2026-07-17T12:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078088118029500653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025193723693596676",
+          "start": 0,
+          "username": "miaomeow_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078088118029500653",
+    "in_reply_to_user_id": "2025193723693596676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078087740193956210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaomeow_cat 对的...即使有一丝幸福也会惴惴不安，因为一切都会回去，绝望只会更深重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2078084511347392766",
+        "created_at": "2026-07-17T12:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078088118029500653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025193723693596676",
+              "start": 0,
+              "username": "miaomeow_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078088118029500653",
+        "in_reply_to_user_id": "2025193723693596676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078087740193956210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaomeow_cat 对的...即使有一丝幸福也会惴惴不安，因为一切都会回去，绝望只会更深重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025193723693596676",
+        "conversation_id": "2078084511347392766",
+        "created_at": "2026-07-17T12:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078087740193956210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707350362787913728",
+              "start": 0,
+              "username": "lysosome807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078087740193956210",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078086885566759078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lysosome807 从生病的那天起就无法摆脱拥抱不了幸福的事实了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 913,
+          "like_count": 4353,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T13:00:03.000Z",
+        "description": "在这个夏天里，胸中的某样东西坏掉了，破碎的裂痕能否修复回来？",
+        "id": "2025193723693596676",
+        "name": "碎夏",
+        "pinned_tweet_id": "2049523575439360190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025194468119642116/D1KCuBeU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 25,
+          "like_count": 754,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "miaomeow_cat",
+        "verified": false
+      }
+    ]
+  }
+}

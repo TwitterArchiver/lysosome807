@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2080182759293923680",
+    "created_at": "2026-07-23T06:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080182759293923680"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080182759293923680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去做心电图，因为不想多洗一件衣服准备继续穿连衣裙，反正也不在乎在检查室把衣服都脱了，然后突然想起腿上割痕还没褪掉，wtf还是多洗一件衣服吧...总是在莫名其妙的地方被猝不及防地提醒自己不“正常”，真的真的真的很烦。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2080182759293923680",
+        "created_at": "2026-07-23T06:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080182759293923680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080182759293923680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去做心电图，因为不想多洗一件衣服准备继续穿连衣裙，反正也不在乎在检查室把衣服都脱了，然后突然想起腿上割痕还没褪掉，wtf还是多洗一件衣服吧...总是在莫名其妙的地方被猝不及防地提醒自己不“正常”，真的真的真的很烦。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 920,
+          "like_count": 4386,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

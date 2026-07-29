@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2063975241995730971",
+    "created_at": "2026-06-08T16:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T17:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064019764901794162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029585628074262528",
+          "start": 0,
+          "username": "Serinda_Aqua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064019764901794162",
+    "in_reply_to_user_id": "2029585628074262528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064006292130386169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Serinda_Aqua 合理，确实应该为了开药考虑🤤（不过如果是心理医生的话，反而更不想跟ta讨论了，总感觉会被道德制裁诶..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2063975241995730971",
+        "created_at": "2026-06-08T16:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064019764901794162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029585628074262528",
+              "start": 0,
+              "username": "Serinda_Aqua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064019764901794162",
+        "in_reply_to_user_id": "2029585628074262528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064006292130386169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Serinda_Aqua 合理，确实应该为了开药考虑🤤（不过如果是心理医生的话，反而更不想跟ta讨论了，总感觉会被道德制裁诶..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029585628074262528",
+        "conversation_id": "2063975241995730971",
+        "created_at": "2026-06-08T15:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064006292130386169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707350362787913728",
+              "start": 0,
+              "username": "lysosome807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064006292130386169",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063975241995730971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lysosome807 不要，医生知道这个会考虑很多风险，以后开什么药都很难了，还有精神科医生不是心理医生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 869,
+          "like_count": 3988,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 377
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T15:52:08.000Z",
+        "description": "=小水🩵谨慎关注，取关随意\n如你所见只是一个有精神病的暴露癖\nADHD | BPD | C-PTSD 努力健全中\n😇偶尔自伤od负能碎碎念",
+        "id": "2029585628074262528",
+        "location": "🚪 168",
+        "name": "水色歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039737520695742464/IIi0fjpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 983,
+          "following_count": 152,
+          "like_count": 2897,
+          "listed_count": 12,
+          "media_count": 147,
+          "tweet_count": 1236
+        },
+        "username": "Serinda_Aqua",
+        "verified": false
+      }
+    ]
+  }
+}

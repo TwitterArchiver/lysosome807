@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2078084511347392766",
+    "created_at": "2026-07-17T11:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078086885566759078"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078086885566759078",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078084511347392766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "直到某天我从熟悉的绝望中醒来，我不知道一直想去的漫展有什么意义，我只是干了一点点家务就累得坐在地上崩溃大哭。我知道一切又回到了“正常”状态，然而这反而让我有种熟悉的安心感。虚假的幸福总让我恐惧，我害怕它是病态的，害怕它的施与者随时会将其撤走。潮水来了又去，还是永远死寂的水面让人心安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2078084511347392766",
+        "created_at": "2026-07-17T11:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078086885566759078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078086885566759078",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078084511347392766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "直到某天我从熟悉的绝望中醒来，我不知道一直想去的漫展有什么意义，我只是干了一点点家务就累得坐在地上崩溃大哭。我知道一切又回到了“正常”状态，然而这反而让我有种熟悉的安心感。虚假的幸福总让我恐惧，我害怕它是病态的，害怕它的施与者随时会将其撤走。潮水来了又去，还是永远死寂的水面让人心安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2078084511347392766",
+        "created_at": "2026-07-17T11:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078084511347392766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078084511347392766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现半个月没发推了诶...\n七月上旬沉浸式体验了一个星期左右的健全生活（也许），至今也不知道怎么回事。像一场梦，或者和某人互换了一段记忆一样，大概就是每天醒来都很平静和清醒，只是天气还不错就觉得生活真美好，以及最诡异的就是我真的无法理解人为什么要自残，为什么要自杀（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 913,
+          "like_count": 4353,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 481
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

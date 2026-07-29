@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2031043017499660793",
+    "created_at": "2026-03-09T16:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T17:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031043017499660793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "954393092894875648",
+          "start": 3,
+          "username": "mgmm127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031043017499660793",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4600
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030768798715036130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mgmm127: 自殺しようとしたとき、友達が「死ぬ前に今あるお金でいっぱい買い物しよう」と言ってダル着で10万持って伊勢丹行ったの本当に楽しかった、結局自殺は失敗し、その後その友達は自殺したが、本当に楽しかったんだよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2031043017499660793",
+        "created_at": "2026-03-09T16:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T17:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031043017499660793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "954393092894875648",
+              "start": 3,
+              "username": "mgmm127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031043017499660793",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4600
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030768798715036130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mgmm127: 自殺しようとしたとき、友達が「死ぬ前に今あるお金でいっぱい買い物しよう」と言ってダル着で10万持って伊勢丹行ったの本当に楽しかった、結局自殺は失敗し、その後その友達は自殺したが、本当に楽しかったんだよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "954393092894875648",
+        "conversation_id": "2030768798715036130",
+        "created_at": "2026-03-08T22:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T23:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030768798715036130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030768798715036130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12724,
+          "impression_count": 14799846,
+          "like_count": 176455,
+          "quote_count": 513,
+          "reply_count": 780,
+          "retweet_count": 4600
+        },
+        "reply_settings": "everyone",
+        "text": "自殺しようとしたとき、友達が「死ぬ前に今あるお金でいっぱい買い物しよう」と言ってダル着で10万持って伊勢丹行ったの本当に楽しかった、結局自殺は失敗し、その後その友達は自殺したが、本当に楽しかったんだよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "20⬆️，中文/English⭕️ ，不知道在干什么",
+        "id": "1707350362787913728",
+        "location": "没有立锥之地",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 613,
+          "like_count": 2481,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 60
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-19T16:40:19.000Z",
+        "description": "「ようこそ、地獄へ」空白の夜に寄り添うような詩を書きたい、noteに載せています。youtubeでは元ホス狂の本音を発信しています。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCbiCC…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCbiCCySG8-h-7xq94xxQjjw?si=Q-GYVuIqTLenbudK",
+                "start": 0,
+                "url": "https://t.co/4hlcqNszHV"
+              }
+            ]
+          }
+        },
+        "id": "954393092894875648",
+        "location": "ホス狂卒業㊗️",
+        "name": "強欲のモメたん",
+        "pinned_tweet_id": "1860700464070991930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606524531593863168/XAAHpQhz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2942,
+          "following_count": 1159,
+          "like_count": 45408,
+          "listed_count": 25,
+          "media_count": 851,
+          "tweet_count": 15801
+        },
+        "url": "https://t.co/4hlcqNszHV",
+        "username": "mgmm127",
+        "verified": false
+      }
+    ]
+  }
+}

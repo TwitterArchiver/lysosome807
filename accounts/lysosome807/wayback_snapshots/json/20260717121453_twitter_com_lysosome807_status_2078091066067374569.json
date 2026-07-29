@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2078084511347392766",
+    "created_at": "2026-07-17T12:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078091066067374569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025193723693596676",
+          "start": 0,
+          "username": "miaomeow_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078091066067374569",
+    "in_reply_to_user_id": "2025193723693596676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078090360044351602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaomeow_cat 唉，现在听到这些说法依然会应激（）但离奇的是在我可以轻易获取幸福的时候，我竟然也觉得自伤的自己不可理喻，真的好可怕...我不知道是不是被换了脑子（神经递质坏掉了之类的hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2078084511347392766",
+        "created_at": "2026-07-17T12:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078091066067374569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025193723693596676",
+              "start": 0,
+              "username": "miaomeow_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078091066067374569",
+        "in_reply_to_user_id": "2025193723693596676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078090360044351602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaomeow_cat 唉，现在听到这些说法依然会应激（）但离奇的是在我可以轻易获取幸福的时候，我竟然也觉得自伤的自己不可理喻，真的好可怕...我不知道是不是被换了脑子（神经递质坏掉了之类的hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025193723693596676",
+        "conversation_id": "2078084511347392766",
+        "created_at": "2026-07-17T12:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078090360044351602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707350362787913728",
+              "start": 0,
+              "username": "lysosome807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078090360044351602",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078089488765767812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lysosome807 很多健全人会认为“精神病患者”矫情，总觉得“不去想”就好了，“运动”就好了，不理解精神病是“生理疾病”的本质，也选择性的忽略这件事。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 913,
+          "like_count": 4355,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 486
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T13:00:03.000Z",
+        "description": "在这个夏天里，胸中的某样东西坏掉了，破碎的裂痕能否修复回来？",
+        "id": "2025193723693596676",
+        "name": "碎夏",
+        "pinned_tweet_id": "2049523575439360190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025194468119642116/D1KCuBeU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 25,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "miaomeow_cat",
+        "verified": false
+      }
+    ]
+  }
+}

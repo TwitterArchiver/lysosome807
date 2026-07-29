@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013105163372789760",
+        "3_2013105163158908928"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "conversation_id": "2013105176526078026",
+    "created_at": "2026-01-19T04:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T05:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013105176526078026"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 7,
+          "normalized_text": "まふゆzozo3",
+          "probability": 0.2146,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 16,
+          "tag": "prsk__FA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9sF5buiUU3",
+          "end": 49,
+          "expanded_url": "https://x.com/lysosome807/status/2013105176526078026/photo/1",
+          "media_key": "3_2013105163372789760",
+          "start": 26,
+          "url": "https://t.co/9sF5buiUU3"
+        },
+        {
+          "display_url": "pic.x.com/9sF5buiUU3",
+          "end": 49,
+          "expanded_url": "https://x.com/lysosome807/status/2013105176526078026/photo/1",
+          "media_key": "3_2013105163158908928",
+          "start": 26,
+          "url": "https://t.co/9sF5buiUU3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013105176526078026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "まふゆzozo3/ユニフォーム #prsk__FA https://t.co/9sF5buiUU3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2013105163372789760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_8eu5XAAAXMDW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2013105163158908928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-_8euGXcAAWmHZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013105163372789760",
+            "3_2013105163158908928"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "conversation_id": "2013105176526078026",
+        "created_at": "2026-01-19T04:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013105176526078026"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "まふゆzozo3",
+              "probability": 0.2146,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "prsk__FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9sF5buiUU3",
+              "end": 49,
+              "expanded_url": "https://x.com/lysosome807/status/2013105176526078026/photo/1",
+              "media_key": "3_2013105163372789760",
+              "start": 26,
+              "url": "https://t.co/9sF5buiUU3"
+            },
+            {
+              "display_url": "pic.x.com/9sF5buiUU3",
+              "end": 49,
+              "expanded_url": "https://x.com/lysosome807/status/2013105176526078026/photo/1",
+              "media_key": "3_2013105163158908928",
+              "start": 26,
+              "url": "https://t.co/9sF5buiUU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013105176526078026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "まふゆzozo3/ユニフォーム #prsk__FA https://t.co/9sF5buiUU3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "中文/English⭕️ ，翻訳機を使う",
+        "id": "1707350362787913728",
+        "name": "水月郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013103599706927104/JiE7xaOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 582,
+          "like_count": 2269,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

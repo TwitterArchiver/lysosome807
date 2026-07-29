@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2068145436804927918",
+    "created_at": "2026-06-20T01:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T02:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068145436804927918"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068145436804927918",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爬回来了。又回到原来的医院找盯了我一年的医生，把我又扔回单相抑郁里了😇，说其实去年住院的时候他们医生就讨论过我的病情，但觉得虽然有情绪冲动但没达到双相的程度（我：我从来没有冲动，但在精神病院说这话有0个人信（）\n但这个研究自己的精神医学大作业终于可以结束了...或许患者本来就应该这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2068145436804927918",
+        "created_at": "2026-06-20T01:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T02:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068145436804927918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068145436804927918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爬回来了。又回到原来的医院找盯了我一年的医生，把我又扔回单相抑郁里了😇，说其实去年住院的时候他们医生就讨论过我的病情，但觉得虽然有情绪冲动但没达到双相的程度（我：我从来没有冲动，但在精神病院说这话有0个人信（）\n但这个研究自己的精神医学大作业终于可以结束了...或许患者本来就应该这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 903,
+          "like_count": 4196,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

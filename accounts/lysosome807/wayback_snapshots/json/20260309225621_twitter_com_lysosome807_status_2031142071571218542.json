@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2031134854042300741",
+    "created_at": "2026-03-09T22:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T23:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031142071571218542"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031142071571218542",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031134854042300741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "实际上上次弄的现在痒得要死，但又不能抓，这几天一直把愈合的肉当成脓挑掉了，现在快忍了一天没动它真的快痒死了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2031134854042300741",
+        "created_at": "2026-03-09T22:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T23:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031142071571218542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031142071571218542",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031134854042300741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实际上上次弄的现在痒得要死，但又不能抓，这几天一直把愈合的肉当成脓挑掉了，现在快忍了一天没动它真的快痒死了..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2031134854042300741",
+        "created_at": "2026-03-09T22:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T23:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031134854042300741"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031134854042300741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，又惦记着割手，可是天已经亮了，室友都在寝室"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "20⬆️，中文/English⭕️ ，不知道在干什么",
+        "id": "1707350362787913728",
+        "location": "没有立锥之地",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 615,
+          "like_count": 2491,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 65
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2054233817758789763",
+    "created_at": "2026-05-12T22:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T23:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054331721974530152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1498354035854053377",
+          "start": 0,
+          "username": "lijunyi87429205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054331721974530152",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054233817758789763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lijunyi87429205 祂一直在那里，无论何时，感觉有些温暖呢.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2054233817758789763",
+        "created_at": "2026-05-12T22:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T23:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054331721974530152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054331721974530152",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054233817758789763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 祂一直在那里，无论何时，感觉有些温暖呢.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2054233817758789763",
+        "created_at": "2026-05-12T16:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054233817758789763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054233817758789763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "死神就在那，在我能看到他开始，他一直耐心地在我身旁等待，在我与人欢谈时，他也不曾离去，只要我一扭头，我就能看到他虚无的面目。\n\n它是至高的自然之法，目前公正地对待每个生命，在那些酒液横流的地方，它被赋予各种不同的形象，大多数形象都投射出人们对它的恐惧。不知有朝一日我面对他时，会不会向它索取一个拥抱。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死神就在那，在我能看到他开始，他一直耐心地在我身旁等待，在我与人欢谈时，他也不曾离去，只要我一扭头，我就能看到他虚无的面目。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 751,
+          "like_count": 3002,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 265
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 377,
+          "like_count": 64684,
+          "listed_count": 7,
+          "media_count": 47,
+          "tweet_count": 1873
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      }
+    ]
+  }
+}

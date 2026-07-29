@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2044091109505413359",
+    "created_at": "2026-04-14T16:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044092019409371424"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044092019409371424",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044091109505413359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哈哈你自己明知这只是专业素养下的人文关怀，明知这只是明月高悬不独照我的温柔，明知这只是干涸至极时含着工业杂质的一滴水罢了，还是要这样一厢情愿地去期望去想念，这是要干什么呢？自己也清楚移情的原因和危害，自己也知道自己为什么会如此依恋，但还是这样，同时又为这样的自己感到悲哀，这是在？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2044091109505413359",
+        "created_at": "2026-04-14T16:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044092019409371424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044092019409371424",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044091109505413359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈哈你自己明知这只是专业素养下的人文关怀，明知这只是明月高悬不独照我的温柔，明知这只是干涸至极时含着工业杂质的一滴水罢了，还是要这样一厢情愿地去期望去想念，这是要干什么呢？自己也清楚移情的原因和危害，自己也知道自己为什么会如此依恋，但还是这样，同时又为这样的自己感到悲哀，这是在？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2044091109505413359",
+        "created_at": "2026-04-14T16:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044091109505413359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044091109505413359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样在凌晨又开始因为移情而哭得停不下来，我恨我自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane｜20⬆️｜中文/English⭕️ ｜she/her｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 643,
+          "like_count": 2641,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 101
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

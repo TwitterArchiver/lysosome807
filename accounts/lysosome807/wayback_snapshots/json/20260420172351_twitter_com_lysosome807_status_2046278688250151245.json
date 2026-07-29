@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2046278688250151245",
+    "created_at": "2026-04-20T17:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T18:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046278688250151245"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046278688250151245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉精神活性物质比起说是毁灭的象征，不如说是挡在自杀前面的为数不多的（也许是最后的）墙了。我不知道，因为我不是oder，但单是想着世界上还有那些能让我短暂抽离于现实的物质存在，就好像继续呼吸也不是那么可怕了，纵使这只是幻觉……再无逃避之处，我应该去哪里呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2046278688250151245",
+        "created_at": "2026-04-20T17:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046278688250151245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046278688250151245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉精神活性物质比起说是毁灭的象征，不如说是挡在自杀前面的为数不多的（也许是最后的）墙了。我不知道，因为我不是oder，但单是想着世界上还有那些能让我短暂抽离于现实的物质存在，就好像继续呼吸也不是那么可怕了，纵使这只是幻觉……再无逃避之处，我应该去哪里呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 667,
+          "like_count": 2686,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 159
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

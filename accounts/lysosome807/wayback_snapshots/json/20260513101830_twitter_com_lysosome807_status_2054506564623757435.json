@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2054506564623757435",
+    "created_at": "2026-05-13T10:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054506564623757435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/prskgoods/stat…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/prskgoods/status/2054409387352129605",
+          "start": 10,
+          "url": "https://t.co/Ae8XSKsJxN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054506564623757435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054409387352129605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可爱的小马跳ww https://t.co/Ae8XSKsJxN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2054409323464572928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK6ZRxbQAAEx6t.png",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2054409376556032000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK6cXjaoAAeYck.png",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2054506564623757435",
+        "created_at": "2026-05-13T10:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054506564623757435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/prskgoods/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/prskgoods/status/2054409387352129605",
+              "start": 10,
+              "url": "https://t.co/Ae8XSKsJxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054506564623757435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054409387352129605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可爱的小马跳ww https://t.co/Ae8XSKsJxN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054409323464572928",
+            "3_2054409376556032000"
+          ]
+        },
+        "author_id": "1376739708059873284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2054409387352129605",
+        "created_at": "2026-05-13T03:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054409387352129605"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "プロセカ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【スペシャルコネクトライブ Parallel Paaaarty!!!!】の開催を記念したグッズが登場！ スポンサーリンク 目次は読みたいところをタップして飛べるよ！ プロジェクトセカイ カラフルステージ！ feat. 初 […]",
+              "display_url": "pinkness-blog.com/34257/",
+              "end": 133,
+              "expanded_url": "https://pinkness-blog.com/34257/",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/2054408775222841345/cTtZ4cZ5?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054408775222841345/cTtZ4cZ5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 110,
+              "status": 200,
+              "title": "「プロセカ」 コネクトライブ スペシャルコネクトライブ Parallel Paaaarty!!!!のグッズ発売 | セカイの案内人『プロセカグッズ情報』",
+              "unwound_url": "https://pinkness-blog.com/34257/",
+              "url": "https://t.co/LxrwiKf7l9"
+            },
+            {
+              "display_url": "pic.x.com/acK0Ajxjil",
+              "end": 157,
+              "expanded_url": "https://x.com/prskgoods/status/2054409387352129605/photo/1",
+              "media_key": "3_2054409323464572928",
+              "start": 134,
+              "url": "https://t.co/acK0Ajxjil"
+            },
+            {
+              "display_url": "pic.x.com/acK0Ajxjil",
+              "end": 157,
+              "expanded_url": "https://x.com/prskgoods/status/2054409387352129605/photo/1",
+              "media_key": "3_2054409376556032000",
+              "start": 134,
+              "url": "https://t.co/acK0Ajxjil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054409387352129605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 25419,
+          "like_count": 661,
+          "quote_count": 31,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "＼✨絶賛予約受付中✨／\n\n「#プロセカ」スペシャルコネクトライブ Parallel Paaaarty!!!! アクリルスタンド\n\n発売日：2026年09月 中旬 発売\n参考価格：1,650円(税込)\n\n🔽ご予約はこちら\nhttps://t.co/LxrwiKf7l9 https://t.co/acK0Ajxjil"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 757,
+          "like_count": 3022,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 274
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-30T03:35:18.000Z",
+        "description": "プロセカグッズやリアルイベントレポアカウントです！※非公式です ■グッズ情報紹介ブログ「セカイの案内人」https://t.co/462xPaFd0E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pinkness-blog.com",
+                "end": 75,
+                "expanded_url": "http://pinkness-blog.com",
+                "start": 52,
+                "url": "https://t.co/462xPaFd0E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pinkness-blog.com",
+                "end": 23,
+                "expanded_url": "https://pinkness-blog.com/",
+                "start": 0,
+                "url": "https://t.co/6gyxZTgKid"
+              }
+            ]
+          }
+        },
+        "id": "1376739708059873284",
+        "name": "プロセカ グッズ情報",
+        "pinned_tweet_id": "1885534096874766572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882254369011515392/dXvqHTrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76749,
+          "following_count": 83,
+          "like_count": 224,
+          "listed_count": 343,
+          "media_count": 6626,
+          "tweet_count": 15596
+        },
+        "url": "https://t.co/6gyxZTgKid",
+        "username": "prskgoods",
+        "verified": true
+      }
+    ]
+  }
+}

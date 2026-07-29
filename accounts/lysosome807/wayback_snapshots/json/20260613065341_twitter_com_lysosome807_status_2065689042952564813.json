@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051379330",
+          "name": "少女終末旅行"
+        }
+      }
+    ],
+    "conversation_id": "2065689042952564813",
+    "created_at": "2026-06-13T06:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065689042952564813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1402136918146510853",
+          "start": 3,
+          "username": "ainukugi"
+        }
+      ],
+      "urls": [
+        {
+          "description": "6月後半のくらげバンチでは、大注目の新連載が２作スタートします。 １作目は、つくみず先生による『少女終末旅行』の前日譚『階層都市断片集』。今の時代を生きる皆さまに読んでいただきたい、胸を打つ物語です。 6月26日（金）連載スタート!!『階層都市断片集』つくみず 【STORY】高度なテクノロジーを手にした人類が築いた、空…",
+          "display_url": "kuragebunch.com/info/entry/shi…",
+          "end": 120,
+          "expanded_url": "https://kuragebunch.com/info/entry/shinrensai.202606",
+          "start": 97,
+          "status": 200,
+          "title": "【新連載】つくみず『階層都市断片集』、タダノなつ『ファーストペンギン・レクイエム』 - 編集部ブログ | くらげバンチ",
+          "unwound_url": "https://kuragebunch.com/info/entry/shinrensai.202606",
+          "url": "https://t.co/IhJGqBQoHp"
+        },
+        {
+          "display_url": "t.co/OHc2J",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/OHc2J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065689042952564813",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3242
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065634253732553213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ainukugi: 「階層都市断片集」が2026年6月26日から連載開始です\n\n少女終末旅行 と シメジシミュレーション に続く つくみず さんの新作です\n少女終末旅行 の前日譚ですね\nhttps://t.co/IhJGqBQoHp https://t.co/OHc2J…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_2065633306637656064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKqajFZaYAAF5jf.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2065689042952564813",
+        "created_at": "2026-06-13T06:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065689042952564813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1402136918146510853",
+              "start": 3,
+              "username": "ainukugi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "6月後半のくらげバンチでは、大注目の新連載が２作スタートします。 １作目は、つくみず先生による『少女終末旅行』の前日譚『階層都市断片集』。今の時代を生きる皆さまに読んでいただきたい、胸を打つ物語です。 6月26日（金）連載スタート!!『階層都市断片集』つくみず 【STORY】高度なテクノロジーを手にした人類が築いた、空…",
+              "display_url": "kuragebunch.com/info/entry/shi…",
+              "end": 120,
+              "expanded_url": "https://kuragebunch.com/info/entry/shinrensai.202606",
+              "start": 97,
+              "status": 200,
+              "title": "【新連載】つくみず『階層都市断片集』、タダノなつ『ファーストペンギン・レクイエム』 - 編集部ブログ | くらげバンチ",
+              "unwound_url": "https://kuragebunch.com/info/entry/shinrensai.202606",
+              "url": "https://t.co/IhJGqBQoHp"
+            },
+            {
+              "display_url": "t.co/OHc2J",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/OHc2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065689042952564813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3242
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065634253732553213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ainukugi: 「階層都市断片集」が2026年6月26日から連載開始です\n\n少女終末旅行 と シメジシミュレーション に続く つくみず さんの新作です\n少女終末旅行 の前日譚ですね\nhttps://t.co/IhJGqBQoHp https://t.co/OHc2J…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065633306637656064"
+          ]
+        },
+        "author_id": "1402136918146510853",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051379330",
+              "name": "少女終末旅行"
+            }
+          }
+        ],
+        "conversation_id": "2065634253732553213",
+        "created_at": "2026-06-13T03:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065634253732553213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "6月後半のくらげバンチでは、大注目の新連載が２作スタートします。 １作目は、つくみず先生による『少女終末旅行』の前日譚『階層都市断片集』。今の時代を生きる皆さまに読んでいただきたい、胸を打つ物語です。 6月26日（金）連載スタート!!『階層都市断片集』つくみず 【STORY】高度なテクノロジーを手にした人類が築いた、空…",
+              "display_url": "kuragebunch.com/info/entry/shi…",
+              "end": 106,
+              "expanded_url": "https://kuragebunch.com/info/entry/shinrensai.202606",
+              "start": 83,
+              "status": 200,
+              "title": "【新連載】つくみず『階層都市断片集』、タダノなつ『ファーストペンギン・レクイエム』 - 編集部ブログ | くらげバンチ",
+              "unwound_url": "https://kuragebunch.com/info/entry/shinrensai.202606",
+              "url": "https://t.co/IhJGqBQoHp"
+            },
+            {
+              "display_url": "pic.x.com/OHc2JoIglU",
+              "end": 130,
+              "expanded_url": "https://x.com/ainukugi/status/2065634253732553213/photo/1",
+              "media_key": "3_2065633306637656064",
+              "start": 107,
+              "url": "https://t.co/OHc2JoIglU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065634253732553213",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2057,
+          "impression_count": 250753,
+          "like_count": 8435,
+          "quote_count": 461,
+          "reply_count": 61,
+          "retweet_count": 3242
+        },
+        "reply_settings": "everyone",
+        "text": "「階層都市断片集」が2026年6月26日から連載開始です\n\n少女終末旅行 と シメジシミュレーション に続く つくみず さんの新作です\n少女終末旅行 の前日譚ですね\nhttps://t.co/IhJGqBQoHp https://t.co/OHc2JoIglU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 890,
+          "like_count": 4104,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 416
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-08T05:34:49.000Z",
+        "description": "締結装置\n\nつくみず作品Discordサーバー 誰でも自由に入れます\nhttps://t.co/FuDoogiVyU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/MuVbGZP5YY",
+                "end": 58,
+                "expanded_url": "http://discord.gg/MuVbGZP5YY",
+                "start": 35,
+                "url": "https://t.co/FuDoogiVyU"
+              }
+            ]
+          }
+        },
+        "id": "1402136918146510853",
+        "name": "犬釘",
+        "pinned_tweet_id": "1402152042278264853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1403731487917187073/q-K7ov2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 8,
+          "like_count": 4385,
+          "listed_count": 15,
+          "media_count": 209,
+          "tweet_count": 502
+        },
+        "username": "ainukugi",
+        "verified": false
+      }
+    ]
+  }
+}

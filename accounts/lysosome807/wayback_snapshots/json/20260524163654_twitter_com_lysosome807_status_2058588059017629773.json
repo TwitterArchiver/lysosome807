@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2058351444491931985",
+    "created_at": "2026-05-24T16:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058588059017629773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1987402138667130881",
+          "start": 0,
+          "username": "jkiesoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058588059017629773",
+    "in_reply_to_user_id": "1987402138667130881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058554530418286644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jkiesoft 谢谢你😭你好温柔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2058351444491931985",
+        "created_at": "2026-05-24T16:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058588059017629773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1987402138667130881",
+              "start": 0,
+              "username": "jkiesoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058588059017629773",
+        "in_reply_to_user_id": "1987402138667130881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058554530418286644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jkiesoft 谢谢你😭你好温柔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987402138667130881",
+        "conversation_id": "2058351444491931985",
+        "created_at": "2026-05-24T14:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058554530418286644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707350362787913728",
+              "start": 0,
+              "username": "lysosome807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058554530418286644",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058352690330214801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lysosome807 也不是吧，我觉得当时那是你能做出的最优解了吧，虽然我不了解到底什么情况，但也想安慰你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 817,
+          "like_count": 3359,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 311
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T06:10:21.000Z",
+        "description": "电波研究所唯一成员。\n欢迎友好交流。\n讨厌我的人可以拉黑但请不要骂我。\n(只有周末上线，平时可能不回消息@-@)\n二号机:@koysov2022",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "koysov2022"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120069949",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120069949",
+                "start": 0,
+                "url": "https://t.co/MYZgVAViyV"
+              }
+            ]
+          }
+        },
+        "id": "1987402138667130881",
+        "location": "电波研究所",
+        "name": "kia",
+        "pinned_tweet_id": "2040333516790243786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043260826774392832/Mu52LJKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 505,
+          "like_count": 5453,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2804
+        },
+        "url": "https://t.co/MYZgVAViyV",
+        "username": "jkiesoft",
+        "verified": false
+      }
+    ]
+  }
+}

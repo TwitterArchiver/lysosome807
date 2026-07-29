@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2053268489088147842",
+    "created_at": "2026-05-10T00:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T01:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053275504380404005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053275504380404005",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053268489088147842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 有种冲锋衣的感觉诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053268485518852096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6szxPbAAAdPKT.jpg",
+        "width": 1533
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2053268489088147842",
+        "created_at": "2026-05-10T00:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053275504380404005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053275504380404005",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053268489088147842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 有种冲锋衣的感觉诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053268485518852096"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2053268489088147842",
+        "created_at": "2026-05-10T00:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T01:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053268489088147842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ylH3cmAqQD",
+              "end": 61,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2053268489088147842/photo/1",
+              "media_key": "3_2053268485518852096",
+              "start": 38,
+              "url": "https://t.co/ylH3cmAqQD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053268489088147842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雨...\n狐真的很喜欢这件雨衣www\n虽然是完全的实用主义装备但是也很好看 https://t.co/ylH3cmAqQD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 743,
+          "like_count": 2874,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 252
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1522,
+          "like_count": 18777,
+          "listed_count": 7,
+          "media_count": 670,
+          "tweet_count": 5987
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

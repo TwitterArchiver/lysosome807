@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045184257841377282"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045184770750165026",
+    "created_at": "2026-04-17T16:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045184770750165026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4rB6D7mSRX",
+          "end": 74,
+          "expanded_url": "https://x.com/lysosome807/status/2045184770750165026/photo/1",
+          "media_key": "3_2045184257841377282",
+          "start": 51,
+          "url": "https://t.co/4rB6D7mSRX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045184770750165026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Why does she sit on my record player? Σ(ﾟДﾟ；≡；ﾟдﾟ) https://t.co/4rB6D7mSRX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_2045184257841377282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGH0PyTbMAItY62.jpg",
+        "width": 713
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045184257841377282"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045184770750165026",
+        "created_at": "2026-04-17T16:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045184770750165026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4rB6D7mSRX",
+              "end": 74,
+              "expanded_url": "https://x.com/lysosome807/status/2045184770750165026/photo/1",
+              "media_key": "3_2045184257841377282",
+              "start": 51,
+              "url": "https://t.co/4rB6D7mSRX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045184770750165026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Why does she sit on my record player? Σ(ﾟДﾟ；≡；ﾟдﾟ) https://t.co/4rB6D7mSRX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 657,
+          "like_count": 2668,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 138
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

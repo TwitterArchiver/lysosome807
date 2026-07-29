@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2063903910662914353",
+    "created_at": "2026-06-08T08:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063903910662914353"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063903910662914353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠我是真的受不了了，从来没有这么无助过，我看着桌子上我自己的谷子但一点想不起来是怎么来的，也想不起来为啥这个立牌没底座、那个吧唧只有一个etc.我的柜子门也不知道啥时候掉的，稍微思考一下任何一个问题头就开始痛。这周还好几个ddl和考试在追，我现在除了割腿腿啥都干不了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2063903910662914353",
+        "created_at": "2026-06-08T08:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063903910662914353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063903910662914353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我是真的受不了了，从来没有这么无助过，我看着桌子上我自己的谷子但一点想不起来是怎么来的，也想不起来为啥这个立牌没底座、那个吧唧只有一个etc.我的柜子门也不知道啥时候掉的，稍微思考一下任何一个问题头就开始痛。这周还好几个ddl和考试在追，我现在除了割腿腿啥都干不了😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 868,
+          "like_count": 3971,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 366
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

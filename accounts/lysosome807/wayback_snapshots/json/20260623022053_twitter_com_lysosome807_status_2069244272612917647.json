@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2069244272612917647",
+    "created_at": "2026-06-23T02:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069244272612917647"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069244272612917647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在对自己割的伤口态度be like：\n昨天宿管来寝室，我在无意识抠手腕的结痂，不小心抠掉一条开始渗血。她大惊失色问我手咋了，我：（不说话开始笑，若干秒后）呃...抠破了吧；\n上周我爹看到我上衣上沾的几坨血，问我咋回事，我：（装傻充愣）怎么回事呢？过一会之后他又问，我：还能怎么回事啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2069244272612917647",
+        "created_at": "2026-06-23T02:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069244272612917647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069244272612917647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在对自己割的伤口态度be like：\n昨天宿管来寝室，我在无意识抠手腕的结痂，不小心抠掉一条开始渗血。她大惊失色问我手咋了，我：（不说话开始笑，若干秒后）呃...抠破了吧；\n上周我爹看到我上衣上沾的几坨血，问我咋回事，我：（装傻充愣）怎么回事呢？过一会之后他又问，我：还能怎么回事啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 908,
+          "like_count": 4232,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 470
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

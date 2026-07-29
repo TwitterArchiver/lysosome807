@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2047009629826351593",
+    "created_at": "2026-04-22T17:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047009629826351593"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047009629826351593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好像这样一直好好吃着药也能维持着现状，只要维持这样毫无产出的状态就可以继续活下去。但我想要的似乎不是这样，我不想要这样无聊的生活，我还是为我凭直觉为自己划出的终点而不甘，但我又有什么办法呢？我真切地感受到了什么叫束手无策，真的什么都做不了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2047009629826351593",
+        "created_at": "2026-04-22T17:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047009629826351593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047009629826351593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像这样一直好好吃着药也能维持着现状，只要维持这样毫无产出的状态就可以继续活下去。但我想要的似乎不是这样，我不想要这样无聊的生活，我还是为我凭直觉为自己划出的终点而不甘，但我又有什么办法呢？我真切地感受到了什么叫束手无策，真的什么都做不了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 675,
+          "like_count": 2693,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 162
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

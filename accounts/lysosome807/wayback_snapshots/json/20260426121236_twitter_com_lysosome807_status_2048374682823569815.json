@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2048367893826433428",
+    "created_at": "2026-04-26T12:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T13:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048374682823569815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1533269224952680448",
+          "start": 0,
+          "username": "Kevin33550337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048374682823569815",
+    "in_reply_to_user_id": "1533269224952680448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048367893826433428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kevin33550337 睡觉好（）根据个人经验，醒着也并不一定能写作业（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2048367893826433428",
+        "created_at": "2026-04-26T12:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048374682823569815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1533269224952680448",
+              "start": 0,
+              "username": "Kevin33550337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048374682823569815",
+        "in_reply_to_user_id": "1533269224952680448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048367893826433428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kevin33550337 睡觉好（）根据个人经验，醒着也并不一定能写作业（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533269224952680448",
+        "conversation_id": "2048367893826433428",
+        "created_at": "2026-04-26T11:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048367893826433428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048367893826433428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第八周交图书馆设计大作业，现在是第七周周末晚上，作业的进度是50%。\n事已至此，有点困，先睡一觉吧😊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/any｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 697,
+          "like_count": 2745,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 191
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-05T02:07:44.000Z",
+        "description": "——我要南墙记住我的额骨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kevin75593",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kevin75593",
+                "start": 0,
+                "url": "https://t.co/SMM4418C86"
+              }
+            ]
+          }
+        },
+        "id": "1533269224952680448",
+        "location": "奥托克拉吉",
+        "name": "游衣继火",
+        "pinned_tweet_id": "2045499611670839722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003177155614932992/jQjdKDD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 5,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 534
+        },
+        "url": "https://t.co/SMM4418C86",
+        "username": "Kevin33550337",
+        "verified": false
+      }
+    ]
+  }
+}

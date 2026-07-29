@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2056274299594637804",
+    "created_at": "2026-05-18T12:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056357743309820158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1627301480440164352",
+          "start": 0,
+          "username": "NWA12302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056357743309820158",
+    "in_reply_to_user_id": "1627301480440164352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056274299594637804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NWA12302 哇朱文涛教材确实不错，不过推荐一下Atkins教材，很好懂的一本ww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 558,
+        "media_key": "3_2056273033380458496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlZbePbcAAdB8-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2056274299594637804",
+        "created_at": "2026-05-18T12:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056357743309820158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627301480440164352",
+              "start": 0,
+              "username": "NWA12302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056357743309820158",
+        "in_reply_to_user_id": "1627301480440164352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056274299594637804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NWA12302 哇朱文涛教材确实不错，不过推荐一下Atkins教材，很好懂的一本ww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056273033380458496"
+          ]
+        },
+        "author_id": "1627301480440164352",
+        "conversation_id": "2056274299594637804",
+        "created_at": "2026-05-18T07:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056274299594637804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6mDrruBCaJ",
+              "end": 64,
+              "expanded_url": "https://x.com/NWA12302/status/2056274299594637804/photo/1",
+              "media_key": "3_2056273033380458496",
+              "start": 41,
+              "url": "https://t.co/6mDrruBCaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056274299594637804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是物化也好，是物化也好\n喜提朱文涛一年体验卡\n我要向所有人安利朱文涛老师的物化课 https://t.co/6mDrruBCaJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 786,
+          "like_count": 3193,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 310
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜科研日记本｜我永远喜欢蜜莓、黍、嵯峨、玉藻十字、艾蕾｜粥9摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka｜芦毛偏爱｜眼镜娘厨｜做个好玩的人\n｜我推@hatunagi_yuzuki｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 96,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 148,
+                "start": 132,
+                "username": "hatunagi_yuzuki"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "AAA特雷森糖浆专卖🐱",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055311136669696000/DU-_O56M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 1456,
+          "like_count": 143541,
+          "listed_count": 8,
+          "media_count": 2182,
+          "tweet_count": 10898
+        },
+        "username": "NWA12302",
+        "verified": false
+      }
+    ]
+  }
+}

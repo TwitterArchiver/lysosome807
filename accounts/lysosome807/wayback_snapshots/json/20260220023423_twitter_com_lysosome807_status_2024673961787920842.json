@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2024625759097409571",
+    "created_at": "2026-02-20T02:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T03:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024673961787920842"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024673961787920842",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024667732713902367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠我再也不漏服了😇，真的吐了但只吐了一点还是好恶心啊好晕啊卧槽了，真他妈的服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2024625759097409571",
+        "created_at": "2026-02-20T02:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024673961787920842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024673961787920842",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024667732713902367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠我再也不漏服了😇，真的吐了但只吐了一点还是好恶心啊好晕啊卧槽了，真他妈的服了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2024625759097409571",
+        "created_at": "2026-02-20T02:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024667732713902367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024667732713902367",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024625759097409571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好了我投降，实在受不了了。刚吃了一个包子一个饺子一碗鸡蛋羹和几个塑料味很重的肉肠，现在恶心得想吐，感觉眼球后面像有什么齿轮，最右转的时候一卡一卡的，头根本不能动，动一下就要晕死我靠。我破防了哈哈吃药。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "20⬆️，中文/English⭕️ ，不知道在干什么",
+        "id": "1707350362787913728",
+        "location": "没有立锥之地",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 610,
+          "like_count": 2420,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 45
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

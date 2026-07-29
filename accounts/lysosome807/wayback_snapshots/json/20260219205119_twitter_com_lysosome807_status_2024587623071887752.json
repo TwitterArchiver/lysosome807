@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2024587623071887752",
+    "created_at": "2026-02-19T20:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T21:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024587623071887752"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024587623071887752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃睡了12h，在床上躺了一天多了我是说完全没有下床，嗯。好像缺了两三天文拉法辛但也没有撤药反应，本来说不让我过量服药我就故意停药好了，但不知道是不是被拉莫三嗪压下去了谁知道呢。我现在就是有点想吐但又想吃甜的东西又想割手然而人还躺在床上下不来也没有动力去上厕所"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2024587623071887752",
+        "created_at": "2026-02-19T20:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024587623071887752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024587623071887752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃睡了12h，在床上躺了一天多了我是说完全没有下床，嗯。好像缺了两三天文拉法辛但也没有撤药反应，本来说不让我过量服药我就故意停药好了，但不知道是不是被拉莫三嗪压下去了谁知道呢。我现在就是有点想吐但又想吃甜的东西又想割手然而人还躺在床上下不来也没有动力去上厕所"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Hitachi-Naka, Ibaraki, Japan",
+              "geo": {
+                "coordinates": [
+                  140.53479,
+                  36.39659
+                ],
+                "type": "Point"
+              },
+              "locality": "Hitachi-Naka",
+              "region": "Ibaraki"
+            }
+          ]
+        },
+        "description": "20⬆️，中文/English⭕️ ，不知道在干什么",
+        "id": "1707350362787913728",
+        "location": "分からない",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 608,
+          "like_count": 2418,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 41
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

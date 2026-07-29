@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047228574856536064"
+      ],
+      "media_source_tweet_id": [
+        "2047228585820434455"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "conversation_id": "2047291441240805519",
+    "created_at": "2026-04-23T12:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047291441240805519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989965282799226880",
+          "start": 3,
+          "username": "DQadopt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UnkwAl1Woz",
+          "end": 89,
+          "expanded_url": "https://x.com/DQadopt/status/2047228585820434455/photo/1",
+          "media_key": "3_2047228574856536064",
+          "start": 66,
+          "url": "https://t.co/UnkwAl1Woz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047291441240805519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047228585820434455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DQadopt: ok啊那我们这种坏拉拉直接odd改花刀吸毒毒321行了吧\n你们拉圈普遍歧视精神病家庭离异的我也已经释然了 https://t.co/UnkwAl1Woz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047228574856536064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk3ispaYAAO_pC.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047228574856536064"
+          ],
+          "media_source_tweet_id": [
+            "2047228585820434455"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "conversation_id": "2047291441240805519",
+        "created_at": "2026-04-23T12:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047291441240805519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989965282799226880",
+              "start": 3,
+              "username": "DQadopt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UnkwAl1Woz",
+              "end": 89,
+              "expanded_url": "https://x.com/DQadopt/status/2047228585820434455/photo/1",
+              "media_key": "3_2047228574856536064",
+              "start": 66,
+              "url": "https://t.co/UnkwAl1Woz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047291441240805519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047228585820434455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DQadopt: ok啊那我们这种坏拉拉直接odd改花刀吸毒毒321行了吧\n你们拉圈普遍歧视精神病家庭离异的我也已经释然了 https://t.co/UnkwAl1Woz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047228574856536064"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "conversation_id": "2047228585820434455",
+        "created_at": "2026-04-23T08:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047228585820434455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UnkwAl1Woz",
+              "end": 76,
+              "expanded_url": "https://x.com/DQadopt/status/2047228585820434455/photo/1",
+              "media_key": "3_2047228574856536064",
+              "start": 53,
+              "url": "https://t.co/UnkwAl1Woz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047228585820434455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2351,
+          "like_count": 68,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "ok啊那我们这种坏拉拉直接odd改花刀吸毒毒321行了吧\n你们拉圈普遍歧视精神病家庭离异的我也已经释然了 https://t.co/UnkwAl1Woz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 678,
+          "like_count": 2707,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 170
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2031918558578643142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 336,
+          "like_count": 3100,
+          "listed_count": 0,
+          "media_count": 346,
+          "tweet_count": 3706
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

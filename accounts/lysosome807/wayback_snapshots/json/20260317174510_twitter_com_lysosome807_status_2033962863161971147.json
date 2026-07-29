@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2033962863161971147",
+    "created_at": "2026-03-17T17:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T18:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033962863161971147"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033962863161971147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好痛苦\n明明说着想死，可看到别人死去后又会难受，这样矛盾是会惹人生气的...\n所以妳们终于得到安宁了吧，我也好想这样变得幸福..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2033962863161971147",
+        "created_at": "2026-03-17T17:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T18:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033962863161971147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033962863161971147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好痛苦\n明明说着想死，可看到别人死去后又会难受，这样矛盾是会惹人生气的...\n所以妳们终于得到安宁了吧，我也好想这样变得幸福..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "20⬆️，中文/English⭕️ ，不知道在干什么",
+        "id": "1707350362787913728",
+        "location": "没有立锥之地",
+        "name": "水月 郁寧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016220075238555650/PQojRAAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 622,
+          "like_count": 2535,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 69
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

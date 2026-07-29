@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1707350362787913728",
+    "conversation_id": "2048433253993111590",
+    "created_at": "2026-04-27T17:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T18:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048815197453009103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2048393340048293888",
+          "start": 0,
+          "username": "Numiouo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048815197453009103",
+    "in_reply_to_user_id": "2048393340048293888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048433253993111590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo2 拍拍糯米🫂明明已经被世界逼迫到角落还要被继续追杀，好烂的世界TT..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2048433253993111590",
+        "created_at": "2026-04-27T17:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048815197453009103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2048393340048293888",
+              "start": 0,
+              "username": "Numiouo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048815197453009103",
+        "in_reply_to_user_id": "2048393340048293888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048433253993111590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo2 拍拍糯米🫂明明已经被世界逼迫到角落还要被继续追杀，好烂的世界TT..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048393340048293888",
+        "conversation_id": "2048433253993111590",
+        "created_at": "2026-04-26T16:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048433253993111590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048433253993111590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1214,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在哭，我好久没哭过了，这个世界将我的嘴巴闭上，我明明很开心地过自己的生活，这里要指着我的鼻子说我煽动传播负面的东西……这明明是我的快乐、我做这些事情的时候明明是快乐的……\n我的头好痛我一直在哭，我好久没有哭，我好久没有那么无助过，我承认这次你们真的赢了，这比辱骂我狠毒万倍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/any｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 708,
+          "like_count": 2759,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 196
+        },
+        "username": "lysosome807",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T13:27:19.000Z",
+        "description": "bluesky🆔numiouo\n@Numiouo @Numiouo1 都是我\nfo受限制 没回fo就是还没刷新cd \n我爱你们 永远永远 其他的都不重要了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "Numiouo"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "username": "Numiouo1"
+              }
+            ]
+          }
+        },
+        "id": "2048393340048293888",
+        "name": "糯米3.0（大号被害中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048393697314979840/mkNygmZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 183,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 114
+        },
+        "username": "Numiouo2",
+        "verified": false
+      }
+    ]
+  }
+}

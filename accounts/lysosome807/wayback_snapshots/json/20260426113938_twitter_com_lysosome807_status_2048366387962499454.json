@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048366379846520833",
+        "3_2048366379838103552",
+        "3_2048366379959832576",
+        "3_2048366379976548352"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048366387962499454",
+    "created_at": "2026-04-26T11:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T12:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048366387962499454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RigY5PDnY9",
+          "end": 64,
+          "expanded_url": "https://x.com/lysosome807/status/2048366387962499454/photo/1",
+          "media_key": "3_2048366379846520833",
+          "start": 41,
+          "url": "https://t.co/RigY5PDnY9"
+        },
+        {
+          "display_url": "pic.x.com/RigY5PDnY9",
+          "end": 64,
+          "expanded_url": "https://x.com/lysosome807/status/2048366387962499454/photo/1",
+          "media_key": "3_2048366379838103552",
+          "start": 41,
+          "url": "https://t.co/RigY5PDnY9"
+        },
+        {
+          "display_url": "pic.x.com/RigY5PDnY9",
+          "end": 64,
+          "expanded_url": "https://x.com/lysosome807/status/2048366387962499454/photo/1",
+          "media_key": "3_2048366379959832576",
+          "start": 41,
+          "url": "https://t.co/RigY5PDnY9"
+        },
+        {
+          "display_url": "pic.x.com/RigY5PDnY9",
+          "end": 64,
+          "expanded_url": "https://x.com/lysosome807/status/2048366387962499454/photo/1",
+          "media_key": "3_2048366379976548352",
+          "start": 41,
+          "url": "https://t.co/RigY5PDnY9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048366387962499454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡觉，一种跳过白天的办法，加速时间..一睁眼就是晚上了，哈，又无痛地糊弄过一天呢 https://t.co/RigY5PDnY9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2048366379846520833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1CXqia0AECyrw.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2048366379838103552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1CXqgaYAA6fHW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2048366379959832576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1CXq9b0AAKq6t.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2048366379976548352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1CXrBa4AAxo7w.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048366379846520833",
+            "3_2048366379838103552",
+            "3_2048366379959832576",
+            "3_2048366379976548352"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048366387962499454",
+        "created_at": "2026-04-26T11:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048366387962499454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RigY5PDnY9",
+              "end": 64,
+              "expanded_url": "https://x.com/lysosome807/status/2048366387962499454/photo/1",
+              "media_key": "3_2048366379846520833",
+              "start": 41,
+              "url": "https://t.co/RigY5PDnY9"
+            },
+            {
+              "display_url": "pic.x.com/RigY5PDnY9",
+              "end": 64,
+              "expanded_url": "https://x.com/lysosome807/status/2048366387962499454/photo/1",
+              "media_key": "3_2048366379838103552",
+              "start": 41,
+              "url": "https://t.co/RigY5PDnY9"
+            },
+            {
+              "display_url": "pic.x.com/RigY5PDnY9",
+              "end": 64,
+              "expanded_url": "https://x.com/lysosome807/status/2048366387962499454/photo/1",
+              "media_key": "3_2048366379959832576",
+              "start": 41,
+              "url": "https://t.co/RigY5PDnY9"
+            },
+            {
+              "display_url": "pic.x.com/RigY5PDnY9",
+              "end": 64,
+              "expanded_url": "https://x.com/lysosome807/status/2048366387962499454/photo/1",
+              "media_key": "3_2048366379976548352",
+              "start": 41,
+              "url": "https://t.co/RigY5PDnY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048366387962499454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡觉，一种跳过白天的办法，加速时间..一睁眼就是晚上了，哈，又无痛地糊弄过一天呢 https://t.co/RigY5PDnY9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/any｜20+｜中文/English ｜顺女同 she/they｜不涉政不涉黄纯碎碎念｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 696,
+          "like_count": 2743,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 188
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}
