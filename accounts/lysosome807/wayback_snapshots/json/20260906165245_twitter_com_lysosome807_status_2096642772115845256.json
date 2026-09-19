@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096592666377252864",
+        "3_2096592666335285248",
+        "3_2096592666381422593"
+      ],
+      "media_source_tweet_id": [
+        "2096592697373184013",
+        "2096592697373184013",
+        "2096592697373184013"
+      ]
+    },
+    "author_id": "1707350362787913728",
+    "conversation_id": "2096642772115845256",
+    "created_at": "2026-09-06T16:52:45.000Z",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096642772115845256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048782497979510784",
+          "start": 3,
+          "username": "8964qwerty"
+        }
+      ],
+      "urls": [
+        {
+          "description": "You are invited to a group chat on Telegram. Click to",
+          "display_url": "t.me/+R1iVwQGS6iEwN…",
+          "end": 44,
+          "expanded_url": "https://t.me/+R1iVwQGS6iEwNmM1",
+          "start": 21,
+          "status": 200,
+          "title": "Join group chat on Telegram",
+          "unwound_url": "https://t.me/+R1iVwQGS6iEwNmM1",
+          "url": "https://t.co/9QjMJU00EJ"
+        },
+        {
+          "display_url": "pic.x.com/0nDNNSPkgu",
+          "end": 121,
+          "expanded_url": "https://x.com/8964qwerty/status/2096592697373184013/photo/1",
+          "media_key": "3_2096592666377252864",
+          "start": 98,
+          "url": "https://t.co/0nDNNSPkgu"
+        },
+        {
+          "display_url": "pic.x.com/0nDNNSPkgu",
+          "end": 121,
+          "expanded_url": "https://x.com/8964qwerty/status/2096592697373184013/photo/1",
+          "media_key": "3_2096592666335285248",
+          "start": 98,
+          "url": "https://t.co/0nDNNSPkgu"
+        },
+        {
+          "display_url": "pic.x.com/0nDNNSPkgu",
+          "end": 121,
+          "expanded_url": "https://x.com/8964qwerty/status/2096592697373184013/photo/1",
+          "media_key": "3_2096592666381422593",
+          "start": 98,
+          "url": "https://t.co/0nDNNSPkgu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096642772115845256",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096592666377252864"
+      },
+      {
+        "media_key": "3_2096592666335285248"
+      },
+      {
+        "media_key": "3_2096592666381422593"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096592697373184013",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964qwerty: 可以转发\nhttps://t.co/9QjMJU00EJ\n这是比较全的记录，图实在太多了一下子发不完 只发一半看的莫名其妙的，放这里给有需要的人\n\n以及拉黑何意味 https://t.co/0nDNNSPkgu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096592666377252864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiX6_4a8AAgFeQ.jpg",
+        "width": 1535
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096592666335285248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiX6_uakAArDnD.jpg",
+        "width": 1535
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096592666381422593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiX6_5akAEIRlW.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096592666377252864",
+            "3_2096592666335285248",
+            "3_2096592666381422593"
+          ],
+          "media_source_tweet_id": [
+            "2096592697373184013",
+            "2096592697373184013",
+            "2096592697373184013"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "conversation_id": "2096642772115845256",
+        "created_at": "2026-09-06T16:52:45.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096642772115845256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048782497979510784",
+              "start": 3,
+              "username": "8964qwerty"
+            }
+          ],
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+R1iVwQGS6iEwN…",
+              "end": 44,
+              "expanded_url": "https://t.me/+R1iVwQGS6iEwNmM1",
+              "start": 21,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+R1iVwQGS6iEwNmM1",
+              "url": "https://t.co/9QjMJU00EJ"
+            },
+            {
+              "display_url": "pic.x.com/0nDNNSPkgu",
+              "end": 121,
+              "expanded_url": "https://x.com/8964qwerty/status/2096592697373184013/photo/1",
+              "media_key": "3_2096592666377252864",
+              "start": 98,
+              "url": "https://t.co/0nDNNSPkgu"
+            },
+            {
+              "display_url": "pic.x.com/0nDNNSPkgu",
+              "end": 121,
+              "expanded_url": "https://x.com/8964qwerty/status/2096592697373184013/photo/1",
+              "media_key": "3_2096592666335285248",
+              "start": 98,
+              "url": "https://t.co/0nDNNSPkgu"
+            },
+            {
+              "display_url": "pic.x.com/0nDNNSPkgu",
+              "end": 121,
+              "expanded_url": "https://x.com/8964qwerty/status/2096592697373184013/photo/1",
+              "media_key": "3_2096592666381422593",
+              "start": 98,
+              "url": "https://t.co/0nDNNSPkgu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096642772115845256",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096592666377252864"
+          },
+          {
+            "media_key": "3_2096592666335285248"
+          },
+          {
+            "media_key": "3_2096592666381422593"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096592697373184013",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964qwerty: 可以转发\nhttps://t.co/9QjMJU00EJ\n这是比较全的记录，图实在太多了一下子发不完 只发一半看的莫名其妙的，放这里给有需要的人\n\n以及拉黑何意味 https://t.co/0nDNNSPkgu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096592666377252864",
+            "3_2096592666335285248",
+            "3_2096592666381422593"
+          ]
+        },
+        "author_id": "2048782497979510784",
+        "conversation_id": "2096592697373184013",
+        "created_at": "2026-09-06T13:33:46.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096592697373184013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to a group chat on Telegram. Click to",
+              "display_url": "t.me/+R1iVwQGS6iEwN…",
+              "end": 28,
+              "expanded_url": "https://t.me/+R1iVwQGS6iEwNmM1",
+              "start": 5,
+              "status": 200,
+              "title": "Join group chat on Telegram",
+              "unwound_url": "https://t.me/+R1iVwQGS6iEwNmM1",
+              "url": "https://t.co/9QjMJU00EJ"
+            },
+            {
+              "display_url": "pic.x.com/0nDNNSPkgu",
+              "end": 105,
+              "expanded_url": "https://x.com/8964qwerty/status/2096592697373184013/photo/1",
+              "media_key": "3_2096592666377252864",
+              "start": 82,
+              "url": "https://t.co/0nDNNSPkgu"
+            },
+            {
+              "display_url": "pic.x.com/0nDNNSPkgu",
+              "end": 105,
+              "expanded_url": "https://x.com/8964qwerty/status/2096592697373184013/photo/1",
+              "media_key": "3_2096592666335285248",
+              "start": 82,
+              "url": "https://t.co/0nDNNSPkgu"
+            },
+            {
+              "display_url": "pic.x.com/0nDNNSPkgu",
+              "end": 105,
+              "expanded_url": "https://x.com/8964qwerty/status/2096592697373184013/photo/1",
+              "media_key": "3_2096592666381422593",
+              "start": 82,
+              "url": "https://t.co/0nDNNSPkgu"
+            },
+            {
+              "display_url": "x.com/sakana47411851…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/sakana47411851/status/2096303310924116074",
+              "start": 106,
+              "url": "https://t.co/SKBSRUkU1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096592697373184013",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096592666377252864"
+          },
+          {
+            "media_key": "3_2096592666335285248"
+          },
+          {
+            "media_key": "3_2096592666381422593"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2565,
+          "like_count": 11,
+          "quote_count": 6,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096303310924116074",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以转发\nhttps://t.co/9QjMJU00EJ\n这是比较全的记录，图实在太多了一下子发不完 只发一半看的莫名其妙的，放这里给有需要的人\n\n以及拉黑何意味 https://t.co/0nDNNSPkgu https://t.co/SKBSRUkU1u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜不安定，积极治疗中（？｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "is_identity_verified": false,
+        "location": "某个逝去的黄昏",
+        "most_recent_tweet_id": "2096642772115845256",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707350362787913728/1769539281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095557530999275521/NMxEQe2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 933,
+          "like_count": 4671,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T15:13:54.000Z",
+        "description": "",
+        "id": "2048782497979510784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096612627921395921",
+        "name": "🐱²",
+        "pinned_tweet_id": "2096592697373184013",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085052743191060480/U2PmDkCT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 62,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "8964qwerty",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
